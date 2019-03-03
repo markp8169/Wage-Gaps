@@ -1,0 +1,1435 @@
+year,geo_name,geo,soc_name,soc,num_ppl,num_ppl_moe,num_ppl_rca,avg_wage,avg_wage_moe
+2014,United States,01000US,General & operations managers,111021,942521,8794.53,1,91801.1,758.383
+2014,United States,01000US,Compensation & benefits managers,113111,15672,1039.93,1,90769,4972.22
+2014,United States,01000US,Human resources managers,113121,350823,5355.11,1,80928.8,1019.75
+2014,United States,01000US,Training & development managers,113131,53640,2199.73,1,76158.4,2131.56
+2014,United States,01000US,Emergency management directors,119161,9642,943.776,1,69698.1,3698.33
+2014,United States,01000US,"Agents & business managers of artists, performers, & athletes",131011,35348,1907.86,1,63676.3,3573.36
+2014,United States,01000US,"Buyers & purchasing agents, farm products",131021,8871,993.801,1,59823.8,4916.8
+2014,United States,01000US,"Wholesale & retail buyers, except farm products",131022,210615,4900.99,1,44836.7,976.871
+2014,United States,01000US,"Purchasing agents, except wholesale, retail, & farm products",131023,253224,5181.41,1,58493,726.383
+2014,United States,01000US,"Claims adjusters, appraisers, examiners, & investigators",131030,282560,5301.45,1,54787.4,563.575
+2014,United States,01000US,Compliance officers,131041,202512,4247.67,1,73684,1055.86
+2014,United States,01000US,Cost estimators,131051,124036,3436.35,1,65229.3,1194.49
+2014,United States,01000US,Human resources workers,131070,668773,7331.16,1,63045,625.917
+2014,United States,01000US,Logisticians,131081,113853,3468.7,1,58530,1198.26
+2014,United States,01000US,Management analysts,131111,632685,7296.52,1,92757.1,846.686
+2014,United States,01000US,"Meeting, convention, & event planners",131121,104044,3169.81,1,44592.3,1111.74
+2014,United States,01000US,Fundraisers,131131,91092,2346.94,1,59410.4,1793.29
+2014,United States,01000US,"Compensation, benefits, & job analysis specialists",131141,58597,1977.03,1,58455.8,1919.64
+2014,United States,01000US,Training & development specialists,131151,124499,3438.33,1,58495.5,1183.59
+2014,United States,01000US,Market research analysts & marketing specialists,131161,255173,4625.71,1,78322.2,1337.77
+2014,United States,01000US,"Business operations specialists, all other",131199,246843,4650.14,1,64347.2,821.519
+2014,United States,01000US,Accountants & auditors,132011,1908239,14028.6,1,71187.4,338.903
+2014,United States,01000US,Appraisers & assessors of real estate,132021,67787,2264.59,1,58167.9,1525.19
+2014,United States,01000US,Budget analysts,132031,46838,1886.38,1,74521.5,1418.91
+2014,United States,01000US,Credit analysts,132041,27003,1390.43,1,63823.8,2851.02
+2014,United States,01000US,Financial analysts,132051,95598,2791.45,1,119302,3264.51
+2014,United States,01000US,Personal financial advisors,132052,307284,6086.2,1,119606,1992.45
+2014,United States,01000US,Insurance underwriters,132053,104641,3080.58,1,69475.3,1449.18
+2014,United States,01000US,Financial examiners,132061,13889,1056.23,1,86016.2,5022.5
+2014,United States,01000US,Credit counselors & loan officers,132070,306505,5885.41,1,69276.9,1010.07
+2014,United States,01000US,"Tax examiners & collectors, & revenue agents",132081,57736,1998.69,1,56074.2,1345.06
+2014,United States,01000US,Tax preparers,132082,83283,2743.13,1,45097,2222.29
+2014,United States,01000US,Other financial specialists,132099,67820,2594.66,1,86767.8,3158.74
+2014,United States,01000US,Computer & information research scientists,151111,14827,1104.39,1,95528.6,3762.11
+2014,United States,01000US,Computer systems analysts,151121,479233,6646.9,1,82628.9,741.517
+2014,United States,01000US,Information security analysts,151122,54204,2371.04,1,86757.7,1825.28
+2014,United States,01000US,Computer programmers,151131,436061,5070.65,1,80047.7,606.63
+2014,United States,01000US,Web developers,151134,153265,3748.07,1,57180.4,1147.88
+2014,United States,01000US,Database administrators,151141,109473,2904.78,1,77022.5,1190.5
+2014,United States,01000US,Network & computer systems administrators,151142,220568,4442.49,1,69874.1,605.609
+2014,United States,01000US,Computer network architects,151143,97806,3391.68,1,96335.5,1164.55
+2014,United States,01000US,Computer support specialists,151150,538971,7330.79,1,55857.9,467.221
+2014,United States,01000US,Other Computer Occupations,151199,390575,5910.23,1,69600.6,706.671
+2014,United States,01000US,Actuaries,152011,25606,1566.17,1,136479,5675.56
+2014,United States,01000US,Operations research analysts,152031,133776,3179.36,1,81294.3,1199.52
+2014,United States,01000US,"Architects, except naval",171010,152305,3670.37,1,79519.1,1574.94
+2014,United States,01000US,"Surveyors, cartographers, & photogrammetrists",171020,35996,1908.64,1,57287.1,1635.28
+2014,United States,01000US,Aerospace engineers,172011,129179,3262.53,1,101513,1243.38
+2014,United States,01000US,Chemical engineers,172041,55724,2264.32,1,102454,1992.14
+2014,United States,01000US,Civil engineers,172051,294490,5977.96,1,87481,941.858
+2014,United States,01000US,Computer hardware engineers,172061,56734,2234.9,1,94002.4,2227.24
+2014,United States,01000US,Electrical & electronics engineers,172070,212735,4491.95,1,95950.1,958.403
+2014,United States,01000US,Environmental engineers,172081,29153,1582.72,1,81669,2322.66
+2014,United States,01000US,"Industrial engineers, including health & safety",172110,176023,3436.66,1,79707,813.518
+2014,United States,01000US,Marine engineers & naval architects,172121,12168,846.543,1,83839.4,2548.76
+2014,United States,01000US,Materials engineers,172131,32635,1659.86,1,82973.6,2319.92
+2014,United States,01000US,Mechanical engineers,172141,219423,5091.51,1,81352,758.166
+2014,United States,01000US,Drafters,173010,153389,3443.97,1,52047.3,650.747
+2014,United States,01000US,"Engineering technicians, except drafters",173020,410913,5437.65,1,54760.9,467.169
+2014,United States,01000US,Surveying & mapping technicians,173031,61859,2027.72,1,49016,1230
+2014,United States,01000US,Agricultural & food scientists,191010,26997,1561.15,1,61783.1,3145.81
+2014,United States,01000US,Biological scientists,191020,73117,2678.81,1,62170.1,1206.43
+2014,United States,01000US,Conservation scientists & foresters,191030,22314,1175.72,1,58056.2,1441.29
+2014,United States,01000US,Astronomers & physicists,192010,11737,897.067,1,94452.9,4735.38
+2014,United States,01000US,Atmospheric & space scientists,192021,11757,947.588,1,78002.1,6198.13
+2014,United States,01000US,Chemists & materials scientists,192030,82757,2458.28,1,75019.6,1489.17
+2014,United States,01000US,Environmental scientists & geoscientists,192040,70576,2340.18,1,88133.3,2410.98
+2014,United States,01000US,Other Physical Scientists,192099,195986,4464.52,1,78028.9,1184.42
+2014,United States,01000US,Economists,193011,24824,1250.48,1,123782,4777.4
+2014,United States,01000US,Psychologists,193030,146738,3590.22,1,66079.5,1043.36
+2014,United States,01000US,Urban & regional planners,193051,21076,1227.82,1,73926,2556.88
+2014,United States,01000US,Agricultural & food science technicians,194011,31800,1704.5,1,43195.2,1887.67
+2014,United States,01000US,Biological technicians,194021,22045,1549.13,1,46169.2,2435.04
+2014,United States,01000US,Counselors,211010,670053,8053.86,1,41203.6,285.154
+2014,United States,01000US,Social workers,211020,778990,8453.57,1,43931.1,242.981
+2014,United States,01000US,Probation officers & correctional treatment specialists,211092,91310,3102.73,1,50729,786.687
+2014,United States,01000US,Social & human service assistants,211093,146287,3897.68,1,33703.7,635.884
+2014,United States,01000US,Clergy,212011,431465,6299.56,1,42382.1,386.738
+2014,United States,01000US,"Directors, religious activities & education",212021,55623,1971.74,1,36024.7,1069.6
+2014,United States,01000US,"Religious workers, all other",212099,78951,2992.23,1,28814.7,760.26
+2014,United States,01000US,Judicial law clerks,231012,17911,1175.18,1,61387.3,5102.46
+2014,United States,01000US,Paralegals & legal assistants,232011,378341,4938.01,1,48975.7,553.61
+2014,United States,01000US,Miscellaneous legal support workers,232090,178570,3724.88,1,54346.2,1116.49
+2014,United States,01000US,Postsecondary teachers,251000,1425730,12951,1,56258.3,436.98
+2014,United States,01000US,Preschool & kindergarten teachers,252010,556141,7339.48,1,23917,247.036
+2014,United States,01000US,Elementary & middle school teachers,252020,3454503,27327.4,1,47410.7,104.388
+2014,United States,01000US,Secondary school teachers,252030,780159,8234.64,1,50763.4,300.744
+2014,United States,01000US,Special education teachers,252050,248025,5025.32,1,45384.9,510.489
+2014,United States,01000US,Other teachers & instructors,253000,754830,9213.64,1,31854.7,334.653
+2014,United States,01000US,"Archivists, curators, & museum technicians",254010,45278,1658.08,1,44779,1393.07
+2014,United States,01000US,Librarians,254021,172721,3551.1,1,43084.7,463.138
+2014,United States,01000US,Library technicians,254031,54780,2008.14,1,16891.7,751.496
+2014,United States,01000US,Teacher assistants,259041,993177,7762.21,1,18766.7,153.977
+2014,United States,01000US,Artists & related workers,271010,108801,3416.8,1,54825,1382.16
+2014,United States,01000US,Designers,271020,655011,7139.17,1,50981.6,589.921
+2014,United States,01000US,Actors,272011,25866,1702.05,1,43246,4063.35
+2014,United States,01000US,Producers & directors,272012,132793,3353.8,1,75424.1,1796.41
+2014,United States,01000US,"Athletes, coaches, umpires, & related workers",272020,247268,4593.18,1,33594.6,1192.29
+2014,United States,01000US,Dancers & choreographers,272030,16771,1358.09,1,27587.7,2824.52
+2014,United States,01000US,"Musicians, singers, & related workers",272040,133919,3933.14,1,32105,1449.22
+2014,United States,01000US,"Entertainers & performers, sports & related workers, all other",272099,28052,1557.77,1,37155.6,2773.1
+2014,United States,01000US,Announcers,273010,40801,2029.39,1,49600.1,3508.1
+2014,United States,01000US,"News analysts, reporters & correspondents",273020,70374,2682.41,1,58880.8,2050.14
+2014,United States,01000US,Public relations specialists,273031,123275,3391.59,1,73922.9,1615.77
+2014,United States,01000US,Editors,273041,145388,3647.99,1,56279.7,1066
+2014,United States,01000US,Technical writers,273042,53444,1913.67,1,67824.6,1591.54
+2014,United States,01000US,Writers & authors,273043,145109,3299.71,1,60031.5,1658.7
+2014,United States,01000US,Miscellaneous media & communication workers,273090,79748,2384.83,1,36173.7,1258.97
+2014,United States,01000US,Photographers,274021,98933,3632.97,1,35406.4,1297.37
+2014,United States,01000US,"Television, video, & motion picture camera operators & editors",274030,39940,1872.72,1,52785.5,2792.36
+2014,United States,01000US,Chiropractors,291011,39320,2037.1,1,84888.3,5275.96
+2014,United States,01000US,Dentists,291020,131449,3777.48,1,161711,3243.56
+2014,United States,01000US,Dietitians & nutritionists,291031,83832,2655.89,1,45720.3,1099.01
+2014,United States,01000US,Optometrists,291041,29569,1298.63,1,104879,3505.64
+2014,United States,01000US,Pharmacists,291051,273231,5122.45,1,99621,1099.34
+2014,United States,01000US,Physicians & surgeons,291060,830736,11230.3,1,201778,1546.28
+2014,United States,01000US,Physician assistants,291071,115695,3140.74,1,77134.2,1514.15
+2014,United States,01000US,Podiatrists,291081,7025,720.995,1,129654,13300
+2014,United States,01000US,Occupational therapists,291122,92044,2597.3,1,60025.4,989.143
+2014,United States,01000US,Physical therapists,291123,202089,4162.54,1,67342.2,995.893
+2014,United States,01000US,Radiation therapists,291124,14541,964.927,1,75614.5,2285.75
+2014,United States,01000US,Recreational therapists,291125,11411,869.611,1,37936.3,1811.33
+2014,United States,01000US,Respiratory therapists,291126,106382,3091.95,1,56545.1,1005.33
+2014,United States,01000US,Speechlanguage pathologists,291127,125908,3353.79,1,57853.8,775.369
+2014,United States,01000US,Veterinarians,291131,67090,2255.14,1,92907.5,2194.46
+2014,United States,01000US,Registered nurses,291141,2832564,16817.5,1,61142.7,176.93
+2014,United States,01000US,Nurse anesthetists,291151,26016,1632.53,1,150442,4764
+2014,United States,01000US,Audiologists,291181,14761,1028.66,1,68268.9,3547.72
+2014,United States,01000US,"Health diagnosing & treating practitioners, all other",291199,11950,1155.8,1,47938.9,4019.05
+2014,United States,01000US,Clinical laboratory technologists & technicians,292010,335741,5240.24,1,46418,482.839
+2014,United States,01000US,Dental hygienists,292021,159545,3461.77,1,46987.1,542.989
+2014,United States,01000US,Diagnostic related technologists & technicians,292030,320204,5130.68,1,53692.8,512.647
+2014,United States,01000US,Emergency medical technicians & paramedics,292041,193990,4327.42,1,43605.1,720.752
+2014,United States,01000US,Health practitioner support technologists & technicians,292050,553582,6108.38,1,33699.5,449.494
+2014,United States,01000US,Licensed practical & licensed vocational nurses,292061,687331,7394.26,1,37896.7,297.758
+2014,United States,01000US,Medical records & health information technicians,292071,123524,3316.24,1,35084.7,745.923
+2014,United States,01000US,"Opticians, dispensing",292081,52283,2148.75,1,37073.6,1013.97
+2014,United States,01000US,Miscellaneous health technologists & technicians,292090,121731,3048.47,1,48321.2,1391.81
+2014,United States,01000US,Other healthcare practitioners & technical Occupations,299000,90119,2432.08,1,58968.4,1707.16
+2014,United States,01000US,"Nursing, psychiatric, & home health aides",311010,2202139,15220.7,1,24060,137.596
+2014,United States,01000US,Occupational therapy assistants & aides,312010,16010,1094.93,1,41081.9,1415.84
+2014,United States,01000US,Physical therapist assistants & aides,312020,72830,2450.24,1,35168.1,807.087
+2014,United States,01000US,Massage therapists,319011,108372,2904.67,1,22833.2,533.364
+2014,United States,01000US,Dental assistants,319091,280240,5198.09,1,27646.6,260.548
+2014,United States,01000US,Medical assistants,319092,449450,7477.05,1,27686.6,259.582
+2014,United States,01000US,Medical transcriptionists,319094,47739,2101.75,1,28825.1,779.308
+2014,United States,01000US,Pharmacy aides,319095,41415,1940.37,1,28915.4,1592.24
+2014,United States,01000US,Veterinary assistants & laboratory animal caretakers,319096,42068,2033.94,1,20992.8,751.444
+2014,United States,01000US,Phlebotomists,319097,99067,3216.57,1,28910.7,601.156
+2014,United States,01000US,Firstline supervisors of correctional officers,331011,57732,2244.58,1,57439.5,942.363
+2014,United States,01000US,Firstline supervisors of police & detectives,331012,111920,3023.15,1,80246.4,1020.8
+2014,United States,01000US,Firstline supervisors of fire fighting & prevention workers,331021,47354,1942.09,1,86657.8,1565.85
+2014,United States,01000US,"Firstline supervisors of protective service workers, all other",331099,83015,2415.67,1,55956.5,1377.53
+2014,United States,01000US,Firefighters,332011,289812,5233.55,1,64776.5,544.546
+2014,United States,01000US,Fire inspectors,332020,18808,1373.57,1,57097.1,2053
+2014,United States,01000US,"Bailiffs, correctional officers, & jailers",333010,438987,6308.14,1,46551.4,335.488
+2014,United States,01000US,Detectives & criminal investigators,333021,128393,3652.95,1,76640.2,1147.64
+2014,United States,01000US,Police officers,333050,713279,8045.51,1,63402.7,366.562
+2014,United States,01000US,Animal control workers,339011,11652,1007.43,1,36099.8,1997.91
+2014,United States,01000US,Private detectives & investigators,339021,76686,2749.12,1,58666.5,1456.42
+2014,United States,01000US,Security guards & gaming surveillance officers,339030,971817,8950.64,1,31137.3,282.54
+2014,United States,01000US,Crossing guards,339091,55704,2229.82,1,15624.6,740.661
+2014,United States,01000US,Transportation security screeners,339093,26941,1505.62,1,40732,1200.06
+2014,United States,01000US,Chefs & head cooks,351011,365628,6262.99,1,31273.7,384.074
+2014,United States,01000US,Firstline supervisors of food preparation & serving workers,351012,530894,6880.86,1,26543.7,364.586
+2014,United States,01000US,Cooks,352010,2214838,19895.2,1,16459.1,98.1488
+2014,United States,01000US,Food preparation workers,352021,865334,10838.1,1,12860.9,120.783
+2014,United States,01000US,Bartenders,353011,412100,6947.94,1,21406.9,229.651
+2014,United States,01000US,"Combined food preparation & serving workers, including fast food",353021,354827,6255.69,1,13259,266.265
+2014,United States,01000US,"Counter attendants, cafeteria, food concession, & coffee shop",353022,195411,4291.14,1,8198.26,210.349
+2014,United States,01000US,Waiters & waitresses,353031,2148849,19237.9,1,15068.7,94.7735
+2014,United States,01000US,"Food servers, nonrestaurant",353041,180593,3902.36,1,16926.7,312.664
+2014,United States,01000US,Dishwashers,359021,298144,5833.2,1,11576.8,222.475
+2014,United States,01000US,"Hosts & hostesses, restaurant, lounge, & coffee shop",359031,291113,6064.01,1,8849.62,238.87
+2014,United States,01000US,Firstline supervisors of housekeeping & janitorial workers,371011,203057,4553.43,1,39692,733.818
+2014,United States,01000US,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",371012,127204,3818.4,1,42261.9,961.158
+2014,United States,01000US,Maids & housekeeping cleaners,372012,1151272,12224.2,1,17584.3,149.573
+2014,United States,01000US,Pest control workers,372021,62924,2395.58,1,35281.8,894.789
+2014,United States,01000US,Grounds maintenance workers,373010,1031317,13233.3,1,21443,180.936
+2014,United States,01000US,Firstline supervisors of gaming workers,391010,61145,2272.99,1,42854.4,1154.12
+2014,United States,01000US,Firstline supervisors of personal service workers,391021,113233,3155.29,1,39079,1085.68
+2014,United States,01000US,Animal trainers,392011,26881,1671.51,1,30734.5,2867.11
+2014,United States,01000US,Nonfarm animal caretakers,392021,157977,3774.77,1,18792.5,410.425
+2014,United States,01000US,Gaming services workers,393010,101944,2909.02,1,33573.6,577.43
+2014,United States,01000US,Motion picture projectionists,393021,7123,789.776,1,19546.2,2084.97
+2014,United States,01000US,"Ushers, lobby attendants, & ticket takers",393031,43098,1966.23,1,9428.91,724.093
+2014,United States,01000US,Miscellaneous entertainment attendants & related workers,393090,183390,3565.95,1,13843.2,400.519
+2014,United States,01000US,"Morticians, undertakers, & funeral directors",394031,35670,1663.16,1,52585.6,2019.36
+2014,United States,01000US,Barbers,395011,58768,2503.62,1,23011.5,726.618
+2014,United States,01000US,"Hairdressers, hairstylists, & cosmetologists",395012,550488,8398.44,1,22396.1,282.586
+2014,United States,01000US,Miscellaneous personal appearance workers,395090,229036,5928.24,1,19738.2,472.862
+2014,United States,01000US,"Baggage porters, bellhops, & concierges",396010,82424,2507.24,1,27213.5,665.347
+2014,United States,01000US,Tour & travel guides,397010,48699,2002.3,1,16670.8,928.907
+2014,United States,01000US,Childcare workers,399011,914540,9042.42,1,14502.8,181.82
+2014,United States,01000US,Personal care aides,399021,1060003,8964.4,1,17690.1,168.491
+2014,United States,01000US,Recreation & fitness workers,399030,363235,6348.57,1,21463.8,335.39
+2014,United States,01000US,Residential advisors,399041,81077,2209.64,1,14234.1,628.625
+2014,United States,01000US,"Personal care & service workers, all other ",399099,84384,3052.95,1,17816.1,676.31
+2014,United States,01000US,Firstline supervisors of retail sales workers,411011,2759326,15494.1,1,47307.4,280.293
+2014,United States,01000US,Firstline supervisors of nonretail sales workers,411012,1042415,10421.5,1,79480.5,637.371
+2014,United States,01000US,Cashiers,412010,3355272,18030.7,1,14163.7,79.614
+2014,United States,01000US,Counter & rental clerks,412021,94278,2798.41,1,23684.8,980.919
+2014,United States,01000US,Parts salespersons,412022,105793,3099.95,1,34672.3,869.074
+2014,United States,01000US,Retail salespersons,412031,3303437,18017.7,1,28164.9,201.097
+2014,United States,01000US,Advertising sales agents,413011,189541,4519.17,1,66377.1,1718.47
+2014,United States,01000US,Insurance sales agents,413021,465725,6048.93,1,67672,921.272
+2014,United States,01000US,"Securities, commodities, & financial services sales agents",413031,251384,4501.92,1,122067,2255.5
+2014,United States,01000US,Travel agents,413041,62584,2195.61,1,38202.6,1011.67
+2014,United States,01000US,"Sales representatives, services, all other",413099,591787,8287.39,1,71877,822.206
+2014,United States,01000US,"Sales representatives, wholesale & manufacturing",414010,1292658,11202.8,1,74896.6,558.359
+2014,United States,01000US,"Models, demonstrators, & product promoters",419010,59285,2598.03,1,18416.1,1463.57
+2014,United States,01000US,Real estate brokers & sales agents,419020,516743,7545.96,1,61458.4,913.282
+2014,United States,01000US,Sales engineers,419031,32502,1558.4,1,105979,3227.79
+2014,United States,01000US,Telemarketers,419041,98092,2972,1,19825.5,640.452
+2014,United States,01000US,"Doortodoor sales workers, news & street vendors, & related workers",419091,102477,3311.19,1,22740,1696.4
+2014,United States,01000US,Other Sales Workers,419099,246370,4311.94,1,55392.5,1175.96
+2014,United States,01000US,Firstline supervisors of office & administrative support workers,431011,1324831,12000.1,1,53570.5,320.88
+2014,United States,01000US,"Switchboard operators, including answering service",432011,34668,1733.92,1,25412.2,944.623
+2014,United States,01000US,Telephone operators,432021,42403,1942.97,1,28237.4,1177.5
+2014,United States,01000US,"Communications equipment operators, all other",432099,12318,1005.41,1,42728.4,3026.19
+2014,United States,01000US,Bill & account collectors,433011,194954,4283.65,1,33941.7,574.692
+2014,United States,01000US,Billing & posting clerks,433021,486164,5866.45,1,33318.1,394.324
+2014,United States,01000US,"Bookkeeping, accounting, & auditing clerks",433031,1234342,9758.89,1,35569.4,227.572
+2014,United States,01000US,Gaming cage workers,433041,10614,911.262,1,25761.2,1532.5
+2014,United States,01000US,Payroll & timekeeping clerks,433051,168971,3933.7,1,38860.7,496.97
+2014,United States,01000US,Procurement clerks,433061,33605,1599.71,1,56889.2,2186.44
+2014,United States,01000US,Tellers,433071,395527,6753.79,1,22215.8,205.33
+2014,United States,01000US,Other financial clerks,433099,97383,2881.13,1,62022,2054.66
+2014,United States,01000US,Brokerage clerks,434011,8155,722.65,1,48874.6,3089.73
+2014,United States,01000US,"Court, municipal, & license clerks",434031,78613,2770.38,1,38551.5,687.564
+2014,United States,01000US,"Credit authorizers, checkers, & clerks",434041,46051,2224.6,1,45746.7,1745.74
+2014,United States,01000US,Customer service representatives,434051,2433563,17504.1,1,30157.2,172.866
+2014,United States,01000US,"Eligibility interviewers, government programs",434061,72065,2385.97,1,44518.1,803.185
+2014,United States,01000US,File clerks,434071,326507,4996.97,1,26307.4,273.973
+2014,United States,01000US,"Hotel, motel, & resort desk clerks",434081,142027,4778.29,1,19158.3,387.882
+2014,United States,01000US,"Interviewers, except eligibility & loan",434111,145615,4080.9,1,27259.4,502.165
+2014,United States,01000US,"Library assistants, clerical",434121,111688,2987.9,1,17312.9,433.652
+2014,United States,01000US,Loan interviewers & clerks,434131,118811,3895.6,1,42568.1,907.158
+2014,United States,01000US,New accounts clerks,434141,18039,1145.88,1,40104,2311.47
+2014,United States,01000US,"Human resources assistants, except payroll & timekeeping",434161,64881,2233.05,1,39496.6,971.296
+2014,United States,01000US,Receptionists & information clerks,434171,1171335,8528.37,1,22246.8,148.802
+2014,United States,01000US,Reservation & transportation ticket agents & travel clerks,434181,119622,3304.18,1,38404.2,1024.88
+2014,United States,01000US,"Information & record clerks, all other",434199,107378,3024.45,1,35304.7,638.919
+2014,United States,01000US,Cargo & freight agents,435011,20483,1531.71,1,41722.7,2591.22
+2014,United States,01000US,Couriers & messengers,435021,219709,4748.07,1,36135.2,619.744
+2014,United States,01000US,Dispatchers,435030,275043,5130.85,1,38424.3,411.781
+2014,United States,01000US,"Meter readers, utilities",435041,32329,1597.7,1,37448.9,1353.68
+2014,United States,01000US,Postal service clerks,435051,113053,3018.35,1,49460.4,567.116
+2014,United States,01000US,Postal service mail carriers,435052,310271,5562.54,1,50302.5,361.405
+2014,United States,01000US,"Postal service mail sorters, processors, & processing machine operators",435053,74487,2545.34,1,47541.3,754.451
+2014,United States,01000US,"Production, planning, & expediting clerks",435061,305478,4453.32,1,47324.6,557.635
+2014,United States,01000US,"Shipping, receiving, & traffic clerks",435071,576314,6275.18,1,29443.1,295.374
+2014,United States,01000US,Stock clerks & order fillers,435081,1526525,11694.6,1,21955.1,151.956
+2014,United States,01000US,"Weighers, measurers, checkers, & samplers, recordkeeping",435111,79107,2908.77,1,33722.4,1008.43
+2014,United States,01000US,Secretaries & administrative assistants,436010,3402805,20718.2,1,33492.5,116.836
+2014,United States,01000US,Computer operators,439011,112085,2971.21,1,42937.4,1105.91
+2014,United States,01000US,Data entry keyers,439021,371254,5652.26,1,28574.9,360.227
+2014,United States,01000US,Word processors & typists,439022,303979,5670.36,1,29173.4,298.927
+2014,United States,01000US,Insurance claims & policy processing clerks,439041,327350,5139.06,1,37812.4,442.236
+2014,United States,01000US,"Mail clerks & mail machine operators, except postal service",439051,92097,2659.84,1,25784.7,552.005
+2014,United States,01000US,"Office clerks, general",439061,1201558,11148.2,1,29261.6,190.063
+2014,United States,01000US,"Office machine operators, except computer",439071,37288,2112.43,1,26515.6,789.201
+2014,United States,01000US,Proofreaders & copy markers,439081,10887,865.233,1,29793.2,1845.74
+2014,United States,01000US,Statistical assistants,439111,22560,1381.39,1,42592.6,1663.83
+2014,United States,01000US,"Firstline supervisors of farming, fishing, & forestry workers",451011,53828,2438.7,1,43197.6,1125.12
+2014,United States,01000US,Agricultural inspectors,452011,16234,1006.89,1,46463.3,1562.93
+2014,United States,01000US,"Graders & sorters, agricultural products",452041,61266,2557.7,1,18794.9,1006.89
+2014,United States,01000US,Fishing & hunting workers,453000,20674,1173.64,1,38634.3,2792.09
+2014,United States,01000US,Forest & conservation workers,454011,14496,1067.63,1,29205.2,1779.57
+2014,United States,01000US,Logging workers,454020,51446,1821.93,1,31035.4,1152.2
+2014,United States,01000US,Firstline supervisors of construction trades & extraction workers,471011,669902,7415.44,1,63266.8,426.334
+2014,United States,01000US,Boilermakers,472011,15981,1389.72,1,53784.8,2205.64
+2014,United States,01000US,Carpenters,472031,842573,11300.3,1,34639.4,288.473
+2014,United States,01000US,"Carpet, floor, & tile installers & finishers",472040,113796,3824.94,1,29781.6,662.08
+2014,United States,01000US,"Cement masons, concrete finishers, & terrazzo workers",472050,50576,2466.14,1,32664.6,958.697
+2014,United States,01000US,Construction laborers,472061,1297953,13804.5,1,31489.7,218.636
+2014,United States,01000US,"Paving, surfacing, & tamping equipment operators",472071,12653,1216.03,1,36717.6,1773.62
+2014,United States,01000US,"Drywall installers, ceiling tile installers, & tapers",472080,106546,4252.65,1,28870.7,629.286
+2014,United States,01000US,Electricians,472111,671158,8469.82,1,50112.9,351.348
+2014,United States,01000US,Glaziers,472121,36441,1847.96,1,38384.8,1305.44
+2014,United States,01000US,Insulation workers,472130,41542,2083.38,1,38128.9,1128.7
+2014,United States,01000US,Painters & paperhangers,472140,408900,7729.47,1,28957.4,417.767
+2014,United States,01000US,"Pipelayers, plumbers, pipefitters, & steamfitters",472150,452892,5967.86,1,45672.5,458.728
+2014,United States,01000US,Plasterers & stucco masons,472161,25842,1933.06,1,29259.6,1180.06
+2014,United States,01000US,Roofers,472181,178849,5006.5,1,28067.1,616.795
+2014,United States,01000US,Sheet metal workers,472211,116897,2940.8,1,42326.7,664.392
+2014,United States,01000US,Structural iron & steel workers,472221,56029,2324.65,1,45181,998.627
+2014,United States,01000US,"Helpers, construction trades",473010,49441,2183.5,1,24504.6,939.392
+2014,United States,01000US,Construction & building inspectors,474011,81822,2564.09,1,52839.3,1149.73
+2014,United States,01000US,Elevator installers & repairers,474021,23826,1558.26,1,80319,2465.53
+2014,United States,01000US,Fence erectors,474031,22800,1398.73,1,29282.7,1421.32
+2014,United States,01000US,Hazardous materials removal workers,474041,31373,1744.98,1,40434.2,1624.74
+2014,United States,01000US,Highway maintenance workers,474051,98705,2759.59,1,38336.2,821.723
+2014,United States,01000US,Railtrack laying & maintenance equipment operators,474061,11561,1085.99,1,50040,2108.95
+2014,United States,01000US,"Earth drillers, except oil & gas",475021,25963,1457.01,1,52571.4,2211.34
+2014,United States,01000US,"Explosives workers, ordnance handling experts, & blasters",475031,18259,1462.52,1,45369.4,2299.1
+2014,United States,01000US,Mining machine operators,475040,66260,2509,1,61988.6,1280.62
+2014,United States,01000US,"Firstline supervisors of mechanics, installers, & repairers",491011,276887,4395.19,1,62067,666.656
+2014,United States,01000US,"Computer, automated teller, & office machine repairers",492011,221894,4498.69,1,44049.5,647.754
+2014,United States,01000US,Radio & telecommunications equipment installers & repairers,492020,163635,3208.5,1,53469.7,788.823
+2014,United States,01000US,Avionics technicians,492091,24684,1804.57,1,49488.9,2019.01
+2014,United States,01000US,"Electric motor, power tool, & related repairers",492092,26697,1623.72,1,44523.7,1402.81
+2014,United States,01000US,"Electronic equipment installers & repairers, motor vehicles",492096,12421,1000.83,1,44828.5,2197.15
+2014,United States,01000US,Electronic home entertainment equipment installers & repairers,492097,44882,1824.34,1,38233.3,1105.38
+2014,United States,01000US,Security & fire alarm systems installers,492098,48266,2216.4,1,43757.4,1107.88
+2014,United States,01000US,Aircraft mechanics & service technicians,493011,179143,4072.54,1,53414.2,663.406
+2014,United States,01000US,Automotive body & related repairers,493021,128837,3235.32,1,40460.3,643.129
+2014,United States,01000US,Automotive glass installers & repairers,493022,16125,1281.56,1,33675.9,1531.42
+2014,United States,01000US,Automotive service technicians & mechanics,493023,725722,9346.69,1,37696.9,272.861
+2014,United States,01000US,Bus & truck mechanics & diesel engine specialists,493031,285559,4885.55,1,43841.5,430.976
+2014,United States,01000US,Heavy vehicle & mobile equipment service technicians & mechanics,493040,200509,4015.71,1,49804,590.38
+2014,United States,01000US,Small engine mechanics,493050,37234,2055.45,1,33068.8,911.399
+2014,United States,01000US,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",493090,77830,2710.84,1,25732.4,749.488
+2014,United States,01000US,Control & valve installers & repairers,499010,19688,1332.33,1,49999.8,1455.98
+2014,United States,01000US,"Heating, air conditioning, & refrigeration mechanics & installers",499021,309523,4755.47,1,44424.9,381.963
+2014,United States,01000US,Home appliance repairers,499031,29982,1996.93,1,38090.2,1536.38
+2014,United States,01000US,"Maintenance workers, machinery",499043,30341,1767.63,1,44612.9,1131.14
+2014,United States,01000US,Millwrights,499044,45543,2238.05,1,58227.4,1280.28
+2014,United States,01000US,Electrical powerline installers & repairers,499051,109525,2997.62,1,67760.3,1046.3
+2014,United States,01000US,Telecommunications line installers & repairers,499052,145829,3598.06,1,49660.2,658.081
+2014,United States,01000US,Precision instrument & equipment repairers,499060,56104,2377.98,1,52165,1392.21
+2014,United States,01000US,"Maintenance & repair workers, general",499071,521635,6374.86,1,42624.3,370.582
+2014,United States,01000US,"Coin, vending, & amusement machine servicers & repairers",499091,35950,1779.79,1,33260.2,1189.27
+2014,United States,01000US,Locksmiths & safe repairers,499094,21144,1293.38,1,40403.9,1998.13
+2014,United States,01000US,Riggers,499096,11930,1093.12,1,44043.5,2442.35
+2014,United States,01000US,"Helpersinstallation, maintenance, & repair workers ",499098,22242,1385.82,1,22607,1102.11
+2014,United States,01000US,Firstline supervisors of production & operating workers,511011,857225,8266.25,1,58534.9,429.839
+2014,United States,01000US,"Aircraft structure, surfaces, rigging, & systems assemblers",512011,7708,832.957,1,44509.5,2384.05
+2014,United States,01000US,"Electrical, electronics, & electromechanical assemblers",512020,137867,3210.88,1,29700.9,438.58
+2014,United States,01000US,Engine & other machine assemblers,512031,14183,1232.36,1,41893.4,2800.19
+2014,United States,01000US,Structural metal fabricators & fitters,512041,26385,1609.37,1,40972.9,1369.53
+2014,United States,01000US,Miscellaneous assemblers & fabricators,512090,922401,7837.54,1,30591,234.413
+2014,United States,01000US,Bakers,513011,198845,4273.33,1,21908.4,446.402
+2014,United States,01000US,"Butchers & other meat, poultry, & fish processing workers",513020,265806,5735.04,1,27406.7,334.626
+2014,United States,01000US,"Food & tobacco roasting, baking, & drying machine operators & tenders",513091,9826,946.058,1,28682.5,2111.85
+2014,United States,01000US,Food batchmakers,513092,86072,2683.75,1,24172.9,636.86
+2014,United States,01000US,Food cooking machine operators & tenders,513093,9784,876.891,1,25855.7,1993.92
+2014,United States,01000US,"Food processing workers, all other",513099,111913,3101.69,1,31519.5,583.922
+2014,United States,01000US,Computer control programmers & operators,514010,75715,2531.5,1,44257.9,773.608
+2014,United States,01000US,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",514021,11933,1068.81,1,37586.8,1828.84
+2014,United States,01000US,"Forging machine setters, operators, & tenders, metal & plastic",514022,7791,901.157,1,40052.3,1735.39
+2014,United States,01000US,"Rolling machine setters, operators, & tenders, metal & plastic",514023,9300,886.398,1,39046.1,1968.52
+2014,United States,01000US,"Machine tool cutting setters, operators, & tenders, metal & plastic",514030,152268,3616.71,1,32866.6,479.46
+2014,United States,01000US,Machinists,514041,359194,5152.67,1,45470.6,375.358
+2014,United States,01000US,"Metal furnace operators, tenders, pourers, & casters",514050,22539,1579.71,1,43582.1,1593.53
+2014,United States,01000US,Tool & die makers,514111,56052,2125.49,1,53522.7,945.474
+2014,United States,01000US,"Welding, soldering, & brazing workers",514120,556285,7646.67,1,39731.3,357.307
+2014,United States,01000US,Prepress technicians & workers,515111,33816,1700.42,1,32895.3,2984.27
+2014,United States,01000US,Printing press operators,515112,184267,3577.05,1,36011.5,503.127
+2014,United States,01000US,Print binding & finishing workers,515113,24074,1560.12,1,28573.9,1106.22
+2014,United States,01000US,Laundry & drycleaning workers,516011,183850,4967.24,1,20622.2,449.474
+2014,United States,01000US,"Pressers, textile, garment, & related materials",516021,46119,2113.77,1,19984.8,820.596
+2014,United States,01000US,Sewing machine operators,516031,181264,3677.25,1,21332.8,462.75
+2014,United States,01000US,Shoe & leather workers,516040,10735,994.753,1,25440.4,2025.52
+2014,United States,01000US,"Tailors, dressmakers, & sewers",516050,56601,2347.21,1,27094.8,1538.93
+2014,United States,01000US,"Textile knitting & weaving machine setters, operators, & tenders",516063,8434,887.154,1,26537.2,1308.56
+2014,United States,01000US,"Textile winding, twisting, & drawing out machine setters, operators, & tenders",516064,12215,1061.59,1,26167.7,1339.87
+2014,United States,01000US,Upholsterers,516093,26185,1533.53,1,29898.6,1416.88
+2014,United States,01000US,Cabinetmakers & bench carpenters,517011,44906,2104.5,1,32809,862.965
+2014,United States,01000US,Furniture finishers,517021,11374,1059.59,1,27947.3,1861.87
+2014,United States,01000US,"Sawing machine setters, operators, & tenders, wood",517041,29880,1409.8,1,26238.2,892.2
+2014,United States,01000US,"Woodworking machine setters, operators, & tenders, except sawing",517042,19277,1299.13,1,26772.6,1104.91
+2014,United States,01000US,"Power plant operators, distributors, & dispatchers",518010,47066,1853.42,1,82237.8,1598.31
+2014,United States,01000US,Stationary engineers & boiler operators,518021,88894,2907.07,1,58790.8,1267.39
+2014,United States,01000US,Water & wastewater treatment plant & system operators,518031,84894,2667.05,1,48008,712.198
+2014,United States,01000US,Miscellaneous plant & system operators,518090,39404,1787.51,1,65380.7,1408.17
+2014,United States,01000US,"Chemical processing machine setters, operators, & tenders",519010,53788,2121.11,1,54569.1,1296.11
+2014,United States,01000US,"Crushing, grinding, polishing, mixing, & blending workers",519020,87843,3021.98,1,36989.4,824.393
+2014,United States,01000US,Cutting workers,519030,69674,2847.45,1,26667.1,755.436
+2014,United States,01000US,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",519041,30150,1817.36,1,33308.5,1199.61
+2014,United States,01000US,"Furnace, kiln, oven, drier, & kettle operators & tenders",519051,10968,925.251,1,45556.3,2040.03
+2014,United States,01000US,"Inspectors, testers, sorters, samplers, & weighers",519061,752323,9024.92,1,40486.5,293.992
+2014,United States,01000US,Jewelers & precious stone & metal workers,519071,28587,1653.71,1,34183.9,1463.19
+2014,United States,01000US,"Medical, dental, & ophthalmic laboratory technicians",519080,81281,2536.43,1,35781,817.601
+2014,United States,01000US,Packaging & filling machine operators & tenders,519111,257471,5283.71,1,25019.6,357.951
+2014,United States,01000US,Painting workers,519120,129144,3689.01,1,35527.8,644.212
+2014,United States,01000US,Photographic process workers & processing machine operators,519151,45786,2155.71,1,29257.8,1733.89
+2014,United States,01000US,Adhesive bonding machine operators & tenders,519191,11615,865.308,1,31303.4,2249.21
+2014,United States,01000US,Etchers & engravers,519194,8770,989.764,1,30333.5,2029.49
+2014,United States,01000US,"Molders, shapers, & casters, except metal & plastic",519195,28151,1757.94,1,33300.8,1250.55
+2014,United States,01000US,"Paper goods machine setters, operators, & tenders",519196,28288,1621.12,1,38133.8,1482.53
+2014,United States,01000US,Tire builders,519197,14491,1234.81,1,45585.1,1755.5
+2014,United States,01000US,Helpersproduction workers,519198,46564,1998.87,1,23156.9,755.463
+2014,United States,01000US,Supervisors of transportation & material moving workers,531000,214237,4168.02,1,51860,721.138
+2014,United States,01000US,Aircraft pilots & flight engineers,532010,145342,3767.71,1,107503,1661.73
+2014,United States,01000US,Air traffic controllers & airfield operations specialists,532020,42078,2117.77,1,83707.2,2525.89
+2014,United States,01000US,Flight attendants,532031,93311,3500.28,1,41607.5,761.663
+2014,United States,01000US,"Ambulance drivers & attendants, except emergency medical technicians",533011,14499,1136.94,1,27725.3,1459.14
+2014,United States,01000US,Bus drivers,533020,591459,7459.5,1,27231.9,283.418
+2014,United States,01000US,Driver/sales workers & truck drivers,533030,2979722,16370.6,1,38606,170.075
+2014,United States,01000US,Taxi drivers & chauffeurs,533041,274673,5496.67,1,26386.6,463.381
+2014,United States,01000US,"Motor vehicle operators, all other",533099,48981,2153.24,1,18657.4,799.432
+2014,United States,01000US,Locomotive engineers & operators,534010,47767,2054.37,1,73524.2,1388.5
+2014,United States,01000US,Railroad conductors & yardmasters,534031,47415,2062.86,1,62648.5,1051.94
+2014,United States,01000US,Ship & boat captains & operators,535020,40701,2179.67,1,71499.6,2442.43
+2014,United States,01000US,Parking lot attendants,536021,83951,3143.01,1,18996.7,619.136
+2014,United States,01000US,Automotive & watercraft service attendants-,536031,114344,3611.31,1,20530.5,725.127
+2014,United States,01000US,Transportation inspectors,536051,43491,1957.21,1,56271.3,1250.32
+2014,United States,01000US,"Transportation attendants, except flight attendants",536061,26891,1645.03,1,26439,1657.08
+2014,United States,01000US,Crane & tower operators,537021,62160,2254.29,1,55183.2,1347.62
+2014,United States,01000US,"Dredge, excavating, & loading machine operators",537030,30022,1567.69,1,42917.3,1837.83
+2014,United States,01000US,Industrial truck & tractor operators,537051,503870,7851.73,1,31385.4,253.294
+2014,United States,01000US,Cleaners of vehicles & equipment,537061,333167,5972.12,1,20725,357.845
+2014,United States,01000US,"Laborers & freight, stock, & material movers, hand",537062,2027945,13956.2,1,25141.3,142.929
+2014,United States,01000US,Machine feeders & offbearers,537063,31837,1665.27,1,26923,1154.14
+2014,United States,01000US,"Packers & packagers, hand",537064,448645,6964.64,1,20116.6,234.276
+2014,United States,01000US,Pumping station operators,537070,26391,1434.88,1,56147.1,2269.64
+2014,United States,01000US,Refuse & recyclable material collectors,537081,87256,3121.78,1,29751.8,791.719
+2014,United States,01000US,Military officer special & tactical operations leaders,551010,37872,2087.52,1,68437.7,1756.69
+2014,United States,01000US,Firstline enlisted military supervisors,552010,86114,2724.14,1,60824.3,900.112
+2014,United States,01000US,Military enlisted tactical operations & air/weapons specialists & crew members,553010,177651,4914.02,1,26337,572.883
+2014,United States,01000US,"Military, rank not specified",559830,251408,6552.92,1,45591.6,597.481
+2014,United States,01000US,Chief executives & legislators,1110XX,1069755,10690.5,1,152466,1169.84
+2014,United States,01000US,Advertising & promotions managers,112011,50458,2032.33,1,79455,2704.66
+2014,United States,01000US,Marketing & sales managers,112020,814678,7745.01,1,96814.8,920.096
+2014,United States,01000US,Public relations & fundraising managers,112031,49757,1704.25,1,88766.5,3238.55
+2014,United States,01000US,Administrative services managers,113011,126561,3260.35,1,70739,1330.72
+2014,United States,01000US,Computer & information systems managers,113021,521535,6481.93,1,106349,696.552
+2014,United States,01000US,Financial managers,113031,1068928,11079.6,1,93636.3,792.089
+2014,United States,01000US,Industrial production managers,113051,224079,4325.57,1,83929.4,1308.3
+2014,United States,01000US,Purchasing managers,113061,188844,3413.25,1,80792,1079.2
+2014,United States,01000US,"Transportation, storage, & distribution managers",113071,214850,4169.88,1,60846.9,967.592
+2014,United States,01000US,"Farmers, ranchers, & other agricultural managers",119013,257583,4481.98,1,51206.3,931.293
+2014,United States,01000US,Construction managers,119021,501221,6343.36,1,78940.9,852.25
+2014,United States,01000US,Education administrators,119030,844139,8810.71,1,70210.1,498.142
+2014,United States,01000US,Architectural & engineering managers,119041,143886,3190.01,1,137338,1662.34
+2014,United States,01000US,Food service managers,119051,854376,11183.4,1,42717.1,525.989
+2014,United States,01000US,Gaming managers,119071,17365,1195.44,1,55112.6,3128.47
+2014,United States,01000US,Lodging managers,119081,110927,3252.9,1,52029,1885.99
+2014,United States,01000US,Medical & health services managers,119111,589378,8158.67,1,81771.5,782.895
+2014,United States,01000US,Natural sciences managers,119121,19717,1218.28,1,113285,5168.44
+2014,United States,01000US,"Property, real estate, & community association managers",119141,470313,6798.52,1,61799.2,844.184
+2014,United States,01000US,Social & community service managers,119151,327219,5417.93,1,60849.6,724.131
+2014,United States,01000US,Miscellaneous managers,119XXX,3201927,19512.5,1,90829.8,350.781
+2014,United States,01000US,"Software developers, applications & systems software",15113X,969721,10414.7,1,96517.4,543.298
+2014,United States,01000US,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",1520XX,46310,2037.67,1,83657.9,2655.14
+2014,United States,01000US,Biomedical & agricultural engineers,1720XX,17073,1378.04,1,83450.8,4177.16
+2014,United States,01000US,"Petroleum, mining & geological engineers, including mining safety engineers",1721XX,36755,1691.87,1,127665,4362.4
+2014,United States,01000US,"Miscellaneous engineers, including nuclear engineers",1721YY,459117,6708.24,1,93309.6,669.095
+2014,United States,01000US,"Medical scientists, & life scientists, all other",1910XX,132983,3104.6,1,88347.9,1852.81
+2014,United States,01000US,"Miscellaneous social scientists, including survey researchers & sociologists",1930XX,50422,2073.35,1,59051.8,2143.57
+2014,United States,01000US,Chemical technicians,194031,68627,2366.89,1,51421.4,953.951
+2014,United States,01000US,"Geological & petroleum technicians, & nuclear technicians",1940XX,19578,1350.88,1,70616,2701.89
+2014,United States,01000US,"Miscellaneous life, physical, & social science technicians, including social science research assistants",1940YY,179159,3933.01,1,36248.2,754.2
+2014,United States,01000US,"Miscellaneous community & social service specialists, including health educators & community health workers",21109X,96623,2506.37,1,42196.9,1015.54
+2014,United States,01000US,"Lawyers, & judges, magistrates, & other judicial workers",2310XX,907345,9459.79,1,150020,1278.57
+2014,United States,01000US,"Other education, training, & library workers",2590XX,116889,3225.59,1,46473.2,916.259
+2014,United States,01000US,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",2740XX,92330,3182.04,1,49159.5,1474.06
+2014,United States,01000US,"Other therapists, including exercise physiologists",29112X,138329,3422.83,1,45840.1,1218.32
+2014,United States,01000US,Nurse practitioners & nurse midwives,2911XX,104920,2676.28,1,87806.6,1259.83
+2014,United States,01000US,"Healthcare support workers, all other, including medical equipment preparers",31909X,152037,3325.31,1,25764.2,567.358
+2014,United States,01000US,Miscellaneous law enforcement workers,3330XX,12742,1062.48,1,38482.4,1848.82
+2014,United States,01000US,"Lifeguards & other recreational, & all other protective service workers",33909X,178278,3516.29,1,11054.1,372.804
+2014,United States,01000US,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",3590XX,341424,5937.83,1,12405.4,229.563
+2014,United States,01000US,Janitors & building cleaners,37201X,2376887,11432.1,1,23404.5,114.024
+2014,United States,01000US,Embalmers & funeral attendants,3940XX,13573,935.422,1,23107.5,1851.04
+2014,United States,01000US,Correspondence clerks & order clerks,434XXX,129004,3215.88,1,30619.9,708.869
+2014,United States,01000US,"Miscellaneous office & administrative support workers, including desktop publishers",439XXX,559466,7044.95,1,38060.6,340.707
+2014,United States,01000US,"Miscellaneous agricultural workers, including animal breeders",4520XX,786618,9979.22,1,20045.1,198.462
+2014,United States,01000US,"Construction equipment operators except paving, surfacing, & tamping equipment operators",47207X,313899,5560.26,1,45636.6,472.702
+2014,United States,01000US,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",472XXX,117730,3419.55,1,33314,660.242
+2014,United States,01000US,"Miscellaneous extraction workers, including roof bolters & helpers",4750XX,78130,3195,1,52798.3,1202.99
+2014,United States,01000US,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",4750YY,44866,2327.49,1,65478.3,2580.61
+2014,United States,01000US,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",47XXXX,42439,1684.86,1,36560.2,1157.13
+2014,United States,01000US,"Electrical & electronics repairers, transportation equipment, & industrial & utility",49209X,23537,1636.68,1,52924.4,2355.7
+2014,United States,01000US,Industrial & refractory machinery mechanics,49904X,369008,4800.07,1,49941.9,421.031
+2014,United States,01000US,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",4990XX,221471,4544,1,38928.1,447.995
+2014,United States,01000US,"Model makers, patternmakers, & molding machine setters, metal & plastic",5140XX,47524,1652.6,1,36079.8,990.788
+2014,United States,01000US,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",514XXX,403674,6177.27,1,35000.7,284.821
+2014,United States,01000US,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders",51606X,10432,918.732,1,24878.5,1613.71
+2014,United States,01000US,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",51609X,20521,1412.65,1,33140.7,1845.74
+2014,United States,01000US,"Miscellaneous woodworkers, including model makers & patternmakers",5170XX,20439,1617.54,1,31866.5,1505.52
+2014,United States,01000US,"Miscellaneous production workers, including semiconductor processors",5191XX,1138785,11139,1,33755.6,215.499
+2014,United States,01000US,"Subway, streetcar, & other rail transportation workers",5340XX,15958,1149.95,1,55538.9,2406.68
+2014,United States,01000US,"Sailors & marine oilers, & ship engineers",5350XX,31773,1594.4,1,46790.3,2068.92
+2014,United States,01000US,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",5360XX,24120,1500.94,1,38824.1,1327.32
+2014,United States,01000US,"Conveyor operators & tenders, & hoist & winch operators",5370XX,13385,1128.33,1,42370.1,2010
+2014,United States,01000US,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",5371XX,52611,2351.99,1,37984.3,1309.16
+2015,United States,01000US,General & operations managers,111021,938529,9334.39,1,90448.2,801.685
+2015,United States,01000US,Compensation & benefits managers,113111,15596,1126.48,1,90222,5752.35
+2015,United States,01000US,Human resources managers,113121,356856,5673.57,1,81091.9,951.017
+2015,United States,01000US,Training & development managers,113131,55792,2247.9,1,76642.8,2649.46
+2015,United States,01000US,Emergency management directors,119161,9605,875.939,1,69838.8,3299.83
+2015,United States,01000US,"Agents & business managers of artists, performers, & athletes",131011,35669,1658.92,1,65367.3,4783.2
+2015,United States,01000US,"Buyers & purchasing agents, farm products",131021,8865,1001.33,1,60213.7,5169.19
+2015,United States,01000US,"Wholesale & retail buyers, except farm products",131022,209235,5049.01,1,43491,1059.49
+2015,United States,01000US,"Purchasing agents, except wholesale, retail, & farm products",131023,260193,4692.53,1,58239.8,714.085
+2015,United States,01000US,"Claims adjusters, appraisers, examiners, & investigators",131030,283618,4980.32,1,54714.7,582.937
+2015,United States,01000US,Compliance officers,131041,208870,4299.86,1,73736.4,1090.23
+2015,United States,01000US,Cost estimators,131051,125034,3301.88,1,64579.5,1190.73
+2015,United States,01000US,Human resources workers,131070,694404,8101.31,1,63462.3,597.405
+2015,United States,01000US,Logisticians,131081,123382,3314.7,1,57521.4,1077.57
+2015,United States,01000US,Management analysts,131111,663592,7542.55,1,92939.1,797.498
+2015,United States,01000US,"Meeting, convention, & event planners",131121,112190,3156.64,1,43818.4,1148.11
+2015,United States,01000US,Fundraisers,131131,92129,2634.81,1,59059.8,1873.93
+2015,United States,01000US,"Compensation, benefits, & job analysis specialists",131141,55893,1725.41,1,56809.3,1523.62
+2015,United States,01000US,Training & development specialists,131151,128510,3423.52,1,58373,1205.78
+2015,United States,01000US,Market research analysts & marketing specialists,131161,267966,4859.57,1,78444.5,1396.15
+2015,United States,01000US,"Business operations specialists, all other",131199,261130,5043.72,1,66590.2,951.354
+2015,United States,01000US,Accountants & auditors,132011,1900239,15287.3,1,70866.4,377.468
+2015,United States,01000US,Appraisers & assessors of real estate,132021,68860,2479.1,1,58098.5,1580.49
+2015,United States,01000US,Budget analysts,132031,46321,1760.06,1,74982.6,1652.64
+2015,United States,01000US,Credit analysts,132041,27263,1415.95,1,65071.4,3379.92
+2015,United States,01000US,Financial analysts,132051,125075,3431.93,1,114755,3251.12
+2015,United States,01000US,Personal financial advisors,132052,315838,5712.2,1,122166,2206.77
+2015,United States,01000US,Insurance underwriters,132053,106517,3398.66,1,69565.7,1467.47
+2015,United States,01000US,Financial examiners,132061,13429,1086.28,1,87937.8,4827.16
+2015,United States,01000US,Credit counselors & loan officers,132070,309526,5514.6,1,70088.7,1095.83
+2015,United States,01000US,"Tax examiners & collectors, & revenue agents",132081,57897,2091.15,1,56201.6,1326.42
+2015,United States,01000US,Tax preparers,132082,85059,2799.93,1,46304.9,2376.69
+2015,United States,01000US,Other financial specialists,132099,64969,2692.32,1,88121.1,3660.8
+2015,United States,01000US,Computer & information research scientists,151111,15341,982.251,1,92628.7,4229.21
+2015,United States,01000US,Computer systems analysts,151121,484346,6574.71,1,82291.1,794.958
+2015,United States,01000US,Information security analysts,151122,58590,2228.81,1,87650.3,1828.89
+2015,United States,01000US,Computer programmers,151131,432911,5146.9,1,80609.9,576.907
+2015,United States,01000US,Web developers,151134,161002,4101.08,1,57301.1,984.496
+2015,United States,01000US,Database administrators,151141,111697,3197.99,1,77647.3,1112.12
+2015,United States,01000US,Network & computer systems administrators,151142,216781,3942.52,1,70172.9,658.807
+2015,United States,01000US,Computer network architects,151143,100182,2996.48,1,96531.1,1168.12
+2015,United States,01000US,Computer support specialists,151150,562634,7247.35,1,56672.4,457.265
+2015,United States,01000US,Other Computer Occupations,151199,445589,6062.1,1,70389.3,676.686
+2015,United States,01000US,Actuaries,152011,25975,1615.43,1,134290,5627.03
+2015,United States,01000US,Operations research analysts,152031,136482,3519.76,1,81172.8,1138.78
+2015,United States,01000US,"Architects, except naval",171010,155122,3797.29,1,81406.6,1717.1
+2015,United States,01000US,"Surveyors, cartographers, & photogrammetrists",171020,35382,1866.14,1,57012.7,1680.69
+2015,United States,01000US,Aerospace engineers,172011,126008,3103.95,1,101638,1338.79
+2015,United States,01000US,Chemical engineers,172041,57550,2316.61,1,103956,2352.56
+2015,United States,01000US,Civil engineers,172051,299057,5548.63,1,87374.6,855.473
+2015,United States,01000US,Computer hardware engineers,172061,55416,2236.9,1,95535,2228.31
+2015,United States,01000US,Electrical & electronics engineers,172070,209606,4567.92,1,96626.7,1004.59
+2015,United States,01000US,Environmental engineers,172081,28823,1648.29,1,79773.2,2544.56
+2015,United States,01000US,"Industrial engineers, including health & safety",172110,181429,3737.11,1,78967.4,882.762
+2015,United States,01000US,Marine engineers & naval architects,172121,12600,922.292,1,84395.6,2584.19
+2015,United States,01000US,Materials engineers,172131,34178,1685.42,1,83129,2172.02
+2015,United States,01000US,Mechanical engineers,172141,227130,5114.14,1,82081,796.388
+2015,United States,01000US,Drafters,173010,152208,3452.97,1,51647.6,706.147
+2015,United States,01000US,"Engineering technicians, except drafters",173020,404486,5314.79,1,54624.6,525.646
+2015,United States,01000US,Surveying & mapping technicians,173031,62197,2517.95,1,48987.2,1348.73
+2015,United States,01000US,Agricultural & food scientists,191010,25658,1604.59,1,61950.2,3411.78
+2015,United States,01000US,Biological scientists,191020,71966,2184.93,1,62379.2,1287.17
+2015,United States,01000US,Conservation scientists & foresters,191030,21468,1317.98,1,58416.1,1934.19
+2015,United States,01000US,Astronomers & physicists,192010,10660,832.325,1,95221,5903.74
+2015,United States,01000US,Atmospheric & space scientists,192021,11956,1005.1,1,79304.2,6609.13
+2015,United States,01000US,Chemists & materials scientists,192030,83670,2898.76,1,74784,1520.39
+2015,United States,01000US,Environmental scientists & geoscientists,192040,70468,2632.64,1,90355.7,2823.01
+2015,United States,01000US,Other Physical Scientists,192099,202024,5092.38,1,78551,1186.33
+2015,United States,01000US,Economists,193011,24245,1330.55,1,126095,5265.48
+2015,United States,01000US,Psychologists,193030,148377,3581.14,1,66654.7,1005.17
+2015,United States,01000US,Urban & regional planners,193051,21415,1223.82,1,72954,2961.85
+2015,United States,01000US,Agricultural & food science technicians,194011,33803,1909.31,1,44337.5,1814.47
+2015,United States,01000US,Biological technicians,194021,21880,1602.11,1,47769.1,2633.35
+2015,United States,01000US,Counselors,211010,690248,7703.18,1,41224.2,330.234
+2015,United States,01000US,Social workers,211020,791201,8294.25,1,43618.5,248.552
+2015,United States,01000US,Probation officers & correctional treatment specialists,211092,89938,3132.02,1,49671.8,759.467
+2015,United States,01000US,Social & human service assistants,211093,152932,3330.74,1,34102.2,553.621
+2015,United States,01000US,Clergy,212011,427469,6025.88,1,42072.1,388.815
+2015,United States,01000US,"Directors, religious activities & education",212021,60275,2284.69,1,36905.9,1112.48
+2015,United States,01000US,"Religious workers, all other",212099,76885,2837.96,1,28769.8,844.387
+2015,United States,01000US,Judicial law clerks,231012,19059,1184.28,1,62169.3,4592.83
+2015,United States,01000US,Paralegals & legal assistants,232011,383953,5085.27,1,48961.6,581.876
+2015,United States,01000US,Miscellaneous legal support workers,232090,171125,4007.76,1,54693.6,1318.09
+2015,United States,01000US,Postsecondary teachers,251000,1453858,13788,1,56278.4,378.405
+2015,United States,01000US,Preschool & kindergarten teachers,252010,559195,7662.74,1,23618.2,245.061
+2015,United States,01000US,Elementary & middle school teachers,252020,3469042,27071.9,1,46914.1,111.941
+2015,United States,01000US,Secondary school teachers,252030,776893,8354.26,1,50356.6,288.207
+2015,United States,01000US,Special education teachers,252050,252129,5232.08,1,44752,437.05
+2015,United States,01000US,Other teachers & instructors,253000,759464,8869.25,1,31199.7,348.618
+2015,United States,01000US,"Archivists, curators, & museum technicians",254010,45388,1770.54,1,44614.4,1423.3
+2015,United States,01000US,Librarians,254021,173004,3595.65,1,42651.2,535.886
+2015,United States,01000US,Library technicians,254031,53444,1973.43,1,17377.4,866.612
+2015,United States,01000US,Teacher assistants,259041,993473,8539.58,1,19021.4,157.353
+2015,United States,01000US,Artists & related workers,271010,112555,3558.95,1,54609.5,1331.01
+2015,United States,01000US,Designers,271020,681762,8080.93,1,51521.6,532.145
+2015,United States,01000US,Actors,272011,27553,1605.46,1,45242.2,4326.56
+2015,United States,01000US,Producers & directors,272012,133997,3709.3,1,77065.6,1752.1
+2015,United States,01000US,"Athletes, coaches, umpires, & related workers",272020,253876,4670.22,1,33854.2,1320.81
+2015,United States,01000US,Dancers & choreographers,272030,16707,1454.42,1,28134.5,2598.24
+2015,United States,01000US,"Musicians, singers, & related workers",272040,137228,3980.31,1,32379,1424.74
+2015,United States,01000US,"Entertainers & performers, sports & related workers, all other",272099,29003,1664.98,1,36673.6,2552.21
+2015,United States,01000US,Announcers,273010,40697,2207.39,1,49392.8,3334.8
+2015,United States,01000US,"News analysts, reporters & correspondents",273020,71203,2776.69,1,58178.2,2157.19
+2015,United States,01000US,Public relations specialists,273031,122236,3442.24,1,73853.9,1713.55
+2015,United States,01000US,Editors,273041,149749,3942.19,1,55910.8,1117.89
+2015,United States,01000US,Technical writers,273042,52520,1871.95,1,68007.2,1593.64
+2015,United States,01000US,Writers & authors,273043,150990,3967.69,1,59916.9,1548.82
+2015,United States,01000US,Miscellaneous media & communication workers,273090,82501,2578.21,1,36424.7,1365.92
+2015,United States,01000US,Photographers,274021,101581,3419.92,1,35624.4,1334.84
+2015,United States,01000US,"Television, video, & motion picture camera operators & editors",274030,44054,2115.46,1,52133.8,2635.34
+2015,United States,01000US,Chiropractors,291011,40080,1840.67,1,84299.9,4803.65
+2015,United States,01000US,Dentists,291020,133332,3508.85,1,162477,3481.6
+2015,United States,01000US,Dietitians & nutritionists,291031,85515,2710.78,1,45895.8,1161.13
+2015,United States,01000US,Optometrists,291041,30277,1330.74,1,106969,3471.58
+2015,United States,01000US,Pharmacists,291051,280430,4739.8,1,99047.4,1057.21
+2015,United States,01000US,Physicians & surgeons,291060,844319,12236.4,1,205809,1388.36
+2015,United States,01000US,Physician assistants,291071,112818,2983.02,1,79465.7,1445.84
+2015,United States,01000US,Podiatrists,291081,6969,710.923,1,136315,14525.9
+2015,United States,01000US,Occupational therapists,291122,96547,2729.8,1,59996.9,957.22
+2015,United States,01000US,Physical therapists,291123,211391,3987.9,1,66934.2,977.28
+2015,United States,01000US,Radiation therapists,291124,15418,1016.64,1,73497,2300.53
+2015,United States,01000US,Recreational therapists,291125,10961,868.199,1,38215.3,1737.94
+2015,United States,01000US,Respiratory therapists,291126,106583,3154.41,1,56424.8,1084.99
+2015,United States,01000US,Speechlanguage pathologists,291127,131258,3352.54,1,57321.2,813.262
+2015,United States,01000US,Veterinarians,291131,67186,2445.08,1,93732.7,2251.96
+2015,United States,01000US,Registered nurses,291141,2913338,16238.8,1,60876.6,184.378
+2015,United States,01000US,Nurse anesthetists,291151,26820,1639.55,1,150131,4535.11
+2015,United States,01000US,Audiologists,291181,15167,1087.98,1,67911.5,3765.92
+2015,United States,01000US,"Health diagnosing & treating practitioners, all other",291199,13281,1132.92,1,48961.6,5129.63
+2015,United States,01000US,Clinical laboratory technologists & technicians,292010,331752,5482.65,1,46021.7,452.193
+2015,United States,01000US,Dental hygienists,292021,165577,3313.57,1,47225.5,598.422
+2015,United States,01000US,Diagnostic related technologists & technicians,292030,328470,5053.08,1,53823.6,492.861
+2015,United States,01000US,Emergency medical technicians & paramedics,292041,198523,4088.55,1,43227.7,845.782
+2015,United States,01000US,Health practitioner support technologists & technicians,292050,574249,7285.68,1,33426.3,457.744
+2015,United States,01000US,Licensed practical & licensed vocational nurses,292061,724479,8433.11,1,37063.5,312.43
+2015,United States,01000US,Medical records & health information technicians,292071,137628,3529.19,1,36235.5,787.767
+2015,United States,01000US,"Opticians, dispensing",292081,53304,2320.21,1,37409.2,1177.56
+2015,United States,01000US,Miscellaneous health technologists & technicians,292090,122737,3187.97,1,47832.2,1304.92
+2015,United States,01000US,Other healthcare practitioners & technical Occupations,299000,99280,3019.28,1,58471.7,1560.25
+2015,United States,01000US,"Nursing, psychiatric, & home health aides",311010,2176176,14720.2,1,23914.4,141.215
+2015,United States,01000US,Occupational therapy assistants & aides,312010,17591,1209.61,1,40108.8,1309.84
+2015,United States,01000US,Physical therapist assistants & aides,312020,75567,2627.91,1,35603.1,772.116
+2015,United States,01000US,Massage therapists,319011,116362,3638.17,1,22750.9,489.991
+2015,United States,01000US,Dental assistants,319091,289093,5043.01,1,27798,282.629
+2015,United States,01000US,Medical assistants,319092,471341,7516.35,1,27819.4,237.309
+2015,United States,01000US,Medical transcriptionists,319094,44428,1892.58,1,28160.7,749.784
+2015,United States,01000US,Pharmacy aides,319095,42128,2042.36,1,28946,1615.34
+2015,United States,01000US,Veterinary assistants & laboratory animal caretakers,319096,44400,1863.94,1,21387.4,757.497
+2015,United States,01000US,Phlebotomists,319097,104122,3096.51,1,28543.7,548.569
+2015,United States,01000US,Firstline supervisors of correctional officers,331011,57126,2245.37,1,57242.5,963.331
+2015,United States,01000US,Firstline supervisors of police & detectives,331012,107346,2702.77,1,79920.3,1144.07
+2015,United States,01000US,Firstline supervisors of fire fighting & prevention workers,331021,46469,2013.06,1,87222.4,1733.79
+2015,United States,01000US,"Firstline supervisors of protective service workers, all other",331099,80340,2451.55,1,55773.7,1273.48
+2015,United States,01000US,Firefighters,332011,290232,5557.23,1,64816.2,594.327
+2015,United States,01000US,Fire inspectors,332020,19059,1165.91,1,57258,2044.46
+2015,United States,01000US,"Bailiffs, correctional officers, & jailers",333010,433819,5917.86,1,46502.8,378.155
+2015,United States,01000US,Detectives & criminal investigators,333021,129360,3696.96,1,76555.9,1073.2
+2015,United States,01000US,Police officers,333050,722513,7875.33,1,63535.3,397.243
+2015,United States,01000US,Animal control workers,339011,11758,1241.23,1,35790.9,1754.89
+2015,United States,01000US,Private detectives & investigators,339021,77931,2561.87,1,58188,1416.04
+2015,United States,01000US,Security guards & gaming surveillance officers,339030,990121,10957.1,1,30864.4,288.762
+2015,United States,01000US,Crossing guards,339091,56933,2236.44,1,15363.4,768.199
+2015,United States,01000US,Transportation security screeners,339093,28102,1709.35,1,41713.6,1316.73
+2015,United States,01000US,Chefs & head cooks,351011,383621,6836.52,1,31062.9,411.598
+2015,United States,01000US,Firstline supervisors of food preparation & serving workers,351012,532427,6837,1,26249.3,360.226
+2015,United States,01000US,Cooks,352010,2258997,19417.3,1,16471.3,101.45
+2015,United States,01000US,Food preparation workers,352021,908777,9927.12,1,12898.4,121.35
+2015,United States,01000US,Bartenders,353011,417578,7330.11,1,21861.8,282.647
+2015,United States,01000US,"Combined food preparation & serving workers, including fast food",353021,364398,6795.93,1,13190,297.914
+2015,United States,01000US,"Counter attendants, cafeteria, food concession, & coffee shop",353022,193761,4439.15,1,8231.52,218.551
+2015,United States,01000US,Waiters & waitresses,353031,2188001,19878.7,1,15196.8,99.5819
+2015,United States,01000US,"Food servers, nonrestaurant",353041,177998,4013.27,1,16904.4,346.534
+2015,United States,01000US,Dishwashers,359021,307499,5757.44,1,11610.4,242.392
+2015,United States,01000US,"Hosts & hostesses, restaurant, lounge, & coffee shop",359031,298988,5747.08,1,8824.79,241.028
+2015,United States,01000US,Firstline supervisors of housekeeping & janitorial workers,371011,203063,4614.63,1,39874.6,789.267
+2015,United States,01000US,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",371012,122668,3657.02,1,42325.2,1071.15
+2015,United States,01000US,Maids & housekeeping cleaners,372012,1169189,13640.2,1,17675.8,154.529
+2015,United States,01000US,Pest control workers,372021,64485,2660.09,1,34653.4,1026.96
+2015,United States,01000US,Grounds maintenance workers,373010,1039853,12422,1,21568.1,182.543
+2015,United States,01000US,Firstline supervisors of gaming workers,391010,51400,1853.86,1,42535.6,1326.03
+2015,United States,01000US,Firstline supervisors of personal service workers,391021,98841,2892.09,1,39098.1,1204.22
+2015,United States,01000US,Animal trainers,392011,27614,1756.72,1,28948.8,2107
+2015,United States,01000US,Nonfarm animal caretakers,392021,168434,3688.49,1,18905.5,433.205
+2015,United States,01000US,Gaming services workers,393010,100647,2952.24,1,33362.4,624.858
+2015,United States,01000US,Motion picture projectionists,393021,5729,735.775,1,19902.6,2944.27
+2015,United States,01000US,"Ushers, lobby attendants, & ticket takers",393031,45279,2258.93,1,9611.75,683.912
+2015,United States,01000US,Miscellaneous entertainment attendants & related workers,393090,191973,3360.65,1,13633,388.068
+2015,United States,01000US,"Morticians, undertakers, & funeral directors",394031,35412,1615.91,1,52624.3,2133.45
+2015,United States,01000US,Barbers,395011,61058,2653.51,1,22857.7,621.008
+2015,United States,01000US,"Hairdressers, hairstylists, & cosmetologists",395012,562391,8301.91,1,22465.9,288.191
+2015,United States,01000US,Miscellaneous personal appearance workers,395090,239823,5824.51,1,20048.7,476.036
+2015,United States,01000US,"Baggage porters, bellhops, & concierges",396010,82630,2898.73,1,27804.2,665.983
+2015,United States,01000US,Tour & travel guides,397010,50097,2089.54,1,17058.3,1032.53
+2015,United States,01000US,Childcare workers,399011,916977,9023.23,1,14548.9,161.925
+2015,United States,01000US,Personal care aides,399021,1135944,9434.76,1,17747.5,169.379
+2015,United States,01000US,Recreation & fitness workers,399030,371508,6600.02,1,21359,368.461
+2015,United States,01000US,Residential advisors,399041,82438,2231.52,1,14115,588.669
+2015,United States,01000US,"Personal care & service workers, all other ",399099,94134,3129.35,1,18137.8,586.714
+2015,United States,01000US,Firstline supervisors of retail sales workers,411011,2788309,15727.1,1,47153.8,234.255
+2015,United States,01000US,Firstline supervisors of nonretail sales workers,411012,1058404,9796.78,1,80369.8,737.778
+2015,United States,01000US,Cashiers,412010,3374580,19184.4,1,13882.5,76.6179
+2015,United States,01000US,Counter & rental clerks,412021,89063,2795.58,1,24609.7,1134.73
+2015,United States,01000US,Parts salespersons,412022,109077,3148.95,1,34609.8,1048.45
+2015,United States,01000US,Retail salespersons,412031,3333507,16591.9,1,27960.1,206.404
+2015,United States,01000US,Advertising sales agents,413011,178931,4110.87,1,67005.7,1737.45
+2015,United States,01000US,Insurance sales agents,413021,474970,6463.35,1,66866.5,998.609
+2015,United States,01000US,"Securities, commodities, & financial services sales agents",413031,243929,4848.75,1,125501,2616.98
+2015,United States,01000US,Travel agents,413041,63532,2469.15,1,38236.5,1010.66
+2015,United States,01000US,"Sales representatives, services, all other",413099,605397,7420.21,1,73550.6,821.265
+2015,United States,01000US,"Sales representatives, wholesale & manufacturing",414010,1303607,11031.5,1,75526.6,537.586
+2015,United States,01000US,"Models, demonstrators, & product promoters",419010,58672,2662.7,1,18709.7,1606.27
+2015,United States,01000US,Real estate brokers & sales agents,419020,531401,6839.81,1,63880.1,902.498
+2015,United States,01000US,Sales engineers,419031,32550,1667.63,1,107329,3169.36
+2015,United States,01000US,Telemarketers,419041,91962,3008.97,1,19974.8,787.126
+2015,United States,01000US,"Doortodoor sales workers, news & street vendors, & related workers",419091,99935,3163.69,1,23412.1,1814.12
+2015,United States,01000US,Other Sales Workers,419099,254136,4257.41,1,55630.5,1183.83
+2015,United States,01000US,Firstline supervisors of office & administrative support workers,431011,1322168,10887.6,1,53654.8,367.238
+2015,United States,01000US,"Switchboard operators, including answering service",432011,33405,1877.59,1,25963.4,1022.47
+2015,United States,01000US,Telephone operators,432021,39636,1825.9,1,27457,1264.48
+2015,United States,01000US,"Communications equipment operators, all other",432099,12107,1009.58,1,41968,3479.13
+2015,United States,01000US,Bill & account collectors,433011,184328,3817.2,1,33888.6,600.267
+2015,United States,01000US,Billing & posting clerks,433021,486444,5742.8,1,33424.4,384.442
+2015,United States,01000US,"Bookkeeping, accounting, & auditing clerks",433031,1208512,10282.5,1,35487.4,242.737
+2015,United States,01000US,Gaming cage workers,433041,9338,949.904,1,26244.4,1683.81
+2015,United States,01000US,Payroll & timekeeping clerks,433051,168766,4162.58,1,39248.9,504.132
+2015,United States,01000US,Procurement clerks,433061,33676,1519.13,1,57910,2139.07
+2015,United States,01000US,Tellers,433071,383111,6032.63,1,22440.5,249.468
+2015,United States,01000US,Other financial clerks,433099,104750,2957.75,1,64970.5,1992.44
+2015,United States,01000US,Brokerage clerks,434011,7405,641.484,1,48473.9,3905.58
+2015,United States,01000US,"Court, municipal, & license clerks",434031,76671,2549.11,1,38235.4,580.489
+2015,United States,01000US,"Credit authorizers, checkers, & clerks",434041,45463,2281.85,1,45171.4,1724.4
+2015,United States,01000US,Customer service representatives,434051,2532669,17266.3,1,29991.7,166.203
+2015,United States,01000US,"Eligibility interviewers, government programs",434061,72498,2603.56,1,43797.7,759.632
+2015,United States,01000US,File clerks,434071,305182,5212.33,1,26162.7,318.85
+2015,United States,01000US,"Hotel, motel, & resort desk clerks",434081,143058,4569.47,1,19398.4,380.562
+2015,United States,01000US,"Interviewers, except eligibility & loan",434111,134121,4180.73,1,28425.4,521.024
+2015,United States,01000US,"Library assistants, clerical",434121,108680,3158.17,1,16983.1,411.86
+2015,United States,01000US,Loan interviewers & clerks,434131,119509,3875.77,1,42710.4,871.347
+2015,United States,01000US,New accounts clerks,434141,17693,1287.8,1,42399.4,2733.69
+2015,United States,01000US,"Human resources assistants, except payroll & timekeeping",434161,62775,2276.79,1,38950.3,949.376
+2015,United States,01000US,Receptionists & information clerks,434171,1170813,10765.9,1,22224,149.605
+2015,United States,01000US,Reservation & transportation ticket agents & travel clerks,434181,123295,3700.54,1,37760.3,1016.48
+2015,United States,01000US,"Information & record clerks, all other",434199,105530,3253.68,1,35391.8,707.585
+2015,United States,01000US,Cargo & freight agents,435011,21022,1491.93,1,41096.6,2301.65
+2015,United States,01000US,Couriers & messengers,435021,209337,4357.58,1,35619.4,584.275
+2015,United States,01000US,Dispatchers,435030,277994,5567.05,1,38509.3,465.568
+2015,United States,01000US,"Meter readers, utilities",435041,29882,1751.19,1,38221.4,1673.64
+2015,United States,01000US,Postal service clerks,435051,109897,3011.79,1,49116.3,674.681
+2015,United States,01000US,Postal service mail carriers,435052,310661,5711.21,1,49848,322.501
+2015,United States,01000US,"Postal service mail sorters, processors, & processing machine operators",435053,72275,2567.74,1,46492,771.831
+2015,United States,01000US,"Production, planning, & expediting clerks",435061,311685,4912.72,1,47093.8,526.404
+2015,United States,01000US,"Shipping, receiving, & traffic clerks",435071,587328,6996.04,1,29315.6,295.683
+2015,United States,01000US,Stock clerks & order fillers,435081,1562183,11036.3,1,21770,146.1
+2015,United States,01000US,"Weighers, measurers, checkers, & samplers, recordkeeping",435111,79352,2733.57,1,33917.6,931.682
+2015,United States,01000US,Secretaries & administrative assistants,436010,3338761,20381.6,1,33527.5,115.557
+2015,United States,01000US,Computer operators,439011,104806,3252.61,1,42608.7,1217.05
+2015,United States,01000US,Data entry keyers,439021,363930,5078.51,1,28483.7,372.482
+2015,United States,01000US,Word processors & typists,439022,306092,5753.3,1,29437.6,324.809
+2015,United States,01000US,Insurance claims & policy processing clerks,439041,345561,5680.57,1,38276.3,451.013
+2015,United States,01000US,"Mail clerks & mail machine operators, except postal service",439051,88400,2627.2,1,25545.9,520.38
+2015,United States,01000US,"Office clerks, general",439061,1230469,10667.3,1,29088.5,195.072
+2015,United States,01000US,"Office machine operators, except computer",439071,36845,1793.18,1,26183,908.632
+2015,United States,01000US,Proofreaders & copy markers,439081,11020,944.919,1,29058.4,1683.35
+2015,United States,01000US,Statistical assistants,439111,21642,1130.65,1,44201.5,1686.55
+2015,United States,01000US,"Firstline supervisors of farming, fishing, & forestry workers",451011,54722,2261.44,1,43455.7,1167.09
+2015,United States,01000US,Agricultural inspectors,452011,15426,1019.27,1,46813.8,1862.25
+2015,United States,01000US,"Graders & sorters, agricultural products",452041,58676,2544.71,1,19053.5,1161.63
+2015,United States,01000US,Fishing & hunting workers,453000,21059,1347.81,1,39644.5,3003.93
+2015,United States,01000US,Forest & conservation workers,454011,14040,1140.11,1,29369.9,1919.25
+2015,United States,01000US,Logging workers,454020,49965,1877.98,1,31466.1,1300.8
+2015,United States,01000US,Firstline supervisors of construction trades & extraction workers,471011,671908,6973.26,1,64071.8,438.787
+2015,United States,01000US,Boilermakers,472011,15421,1206.25,1,54312.2,2306.19
+2015,United States,01000US,Carpenters,472031,859503,10887.1,1,34913.4,282.525
+2015,United States,01000US,"Carpet, floor, & tile installers & finishers",472040,113625,3766.38,1,30539.1,859.716
+2015,United States,01000US,"Cement masons, concrete finishers, & terrazzo workers",472050,50272,2337.75,1,33781.9,1202.64
+2015,United States,01000US,Construction laborers,472061,1349757,14021.3,1,31823.5,223.03
+2015,United States,01000US,"Paving, surfacing, & tamping equipment operators",472071,12803,1073.26,1,35633.3,2127.02
+2015,United States,01000US,"Drywall installers, ceiling tile installers, & tapers",472080,111514,4250.26,1,29589.5,676.065
+2015,United States,01000US,Electricians,472111,694295,8803.36,1,50466.2,356.316
+2015,United States,01000US,Glaziers,472121,36517,1970.95,1,38131.7,1363.82
+2015,United States,01000US,Insulation workers,472130,41945,1982.63,1,38812.6,1332.2
+2015,United States,01000US,Painters & paperhangers,472140,423108,7823.75,1,29123.8,458.239
+2015,United States,01000US,"Pipelayers, plumbers, pipefitters, & steamfitters",472150,466614,5520.28,1,45861.2,488.666
+2015,United States,01000US,Plasterers & stucco masons,472161,26718,1924.03,1,29966.4,1201.76
+2015,United States,01000US,Roofers,472181,180012,5372.01,1,28506.2,595.848
+2015,United States,01000US,Sheet metal workers,472211,118822,3586.11,1,42123.9,629.209
+2015,United States,01000US,Structural iron & steel workers,472221,57067,2619.31,1,45584.5,1072.17
+2015,United States,01000US,"Helpers, construction trades",473010,47267,2208.67,1,25165.2,1137.51
+2015,United States,01000US,Construction & building inspectors,474011,80895,2618.75,1,52620.7,1135.98
+2015,United States,01000US,Elevator installers & repairers,474021,23462,1434.75,1,80028.1,2495.67
+2015,United States,01000US,Fence erectors,474031,23554,1543.94,1,28945.3,1350.4
+2015,United States,01000US,Hazardous materials removal workers,474041,30846,1719.28,1,41346.8,1577.86
+2015,United States,01000US,Highway maintenance workers,474051,98834,3390.19,1,38713.9,730.071
+2015,United States,01000US,Railtrack laying & maintenance equipment operators,474061,12008,999.678,1,51289.8,1812.24
+2015,United States,01000US,"Earth drillers, except oil & gas",475021,26348,1585.53,1,54157.8,2511.07
+2015,United States,01000US,"Explosives workers, ordnance handling experts, & blasters",475031,18528,1481.74,1,45481.6,2381.65
+2015,United States,01000US,Mining machine operators,475040,67033,2777.88,1,63001.5,1199.95
+2015,United States,01000US,"Firstline supervisors of mechanics, installers, & repairers",491011,273613,4742.87,1,61742,712.709
+2015,United States,01000US,"Computer, automated teller, & office machine repairers",492011,214785,4644.78,1,43544.3,643.442
+2015,United States,01000US,Radio & telecommunications equipment installers & repairers,492020,163536,3627.6,1,52940.4,764.93
+2015,United States,01000US,Avionics technicians,492091,25040,1814.18,1,47728.4,1749.56
+2015,United States,01000US,"Electric motor, power tool, & related repairers",492092,25621,1329.82,1,44986.9,1478.28
+2015,United States,01000US,"Electronic equipment installers & repairers, motor vehicles",492096,12153,1061.03,1,45887.4,2957.13
+2015,United States,01000US,Electronic home entertainment equipment installers & repairers,492097,40238,2081.93,1,38730.1,1223.13
+2015,United States,01000US,Security & fire alarm systems installers,492098,49773,2214.69,1,43290,1025.48
+2015,United States,01000US,Aircraft mechanics & service technicians,493011,183899,4157.78,1,53524.5,633.64
+2015,United States,01000US,Automotive body & related repairers,493021,127264,3222.25,1,40822.3,740.446
+2015,United States,01000US,Automotive glass installers & repairers,493022,15605,1168.34,1,34211.3,1600.08
+2015,United States,01000US,Automotive service technicians & mechanics,493023,733644,9658.45,1,37823.6,288.432
+2015,United States,01000US,Bus & truck mechanics & diesel engine specialists,493031,293080,5032.19,1,43572.7,393.43
+2015,United States,01000US,Heavy vehicle & mobile equipment service technicians & mechanics,493040,201200,3595.64,1,50293.6,662.4
+2015,United States,01000US,Small engine mechanics,493050,38221,2041.39,1,32928.5,1000.79
+2015,United States,01000US,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",493090,78833,2827.11,1,26290.7,818.401
+2015,United States,01000US,Control & valve installers & repairers,499010,19288,1344.58,1,51988.8,1741.2
+2015,United States,01000US,"Heating, air conditioning, & refrigeration mechanics & installers",499021,321898,4913.4,1,44349.8,391.447
+2015,United States,01000US,Home appliance repairers,499031,30071,1870.61,1,38390,1724.62
+2015,United States,01000US,"Maintenance workers, machinery",499043,32061,1784.24,1,46327.6,1342.37
+2015,United States,01000US,Millwrights,499044,45755,2159.49,1,59067.8,1211.14
+2015,United States,01000US,Electrical powerline installers & repairers,499051,110233,2930.64,1,68990.8,1032.28
+2015,United States,01000US,Telecommunications line installers & repairers,499052,144105,4034.2,1,49709.6,819.533
+2015,United States,01000US,Precision instrument & equipment repairers,499060,56598,2340.23,1,52156.2,1456.31
+2015,United States,01000US,"Maintenance & repair workers, general",499071,520703,6386.43,1,42467.8,352.815
+2015,United States,01000US,"Coin, vending, & amusement machine servicers & repairers",499091,35105,1861.17,1,32690.9,1155.05
+2015,United States,01000US,Locksmiths & safe repairers,499094,20813,1333.76,1,40450.3,1991.4
+2015,United States,01000US,Riggers,499096,11982,1046.52,1,44813.7,2405.38
+2015,United States,01000US,"Helpersinstallation, maintenance, & repair workers ",499098,22637,1487.35,1,22289.1,1088.79
+2015,United States,01000US,Firstline supervisors of production & operating workers,511011,865879,8697.8,1,58534.4,420.701
+2015,United States,01000US,"Aircraft structure, surfaces, rigging, & systems assemblers",512011,7132,930.436,1,44653.8,2717.22
+2015,United States,01000US,"Electrical, electronics, & electromechanical assemblers",512020,137492,3448.4,1,30280.4,510.2
+2015,United States,01000US,Engine & other machine assemblers,512031,14092,1157.44,1,41801.1,2743.11
+2015,United States,01000US,Structural metal fabricators & fitters,512041,26998,1555.58,1,40085.9,1375.34
+2015,United States,01000US,Miscellaneous assemblers & fabricators,512090,970887,8826.99,1,30746.8,248.556
+2015,United States,01000US,Bakers,513011,209161,4535.08,1,21629.6,441.125
+2015,United States,01000US,"Butchers & other meat, poultry, & fish processing workers",513020,267152,5814.24,1,27410.4,365.842
+2015,United States,01000US,"Food & tobacco roasting, baking, & drying machine operators & tenders",513091,10060,929.043,1,28791.8,2019.64
+2015,United States,01000US,Food batchmakers,513092,87436,2899.55,1,24118.6,636.619
+2015,United States,01000US,Food cooking machine operators & tenders,513093,9439,867.975,1,23918.2,1794.88
+2015,United States,01000US,"Food processing workers, all other",513099,122556,3488.95,1,31879.4,587.939
+2015,United States,01000US,Computer control programmers & operators,514010,81214,2756.41,1,44395.8,793.821
+2015,United States,01000US,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",514021,12365,1163.6,1,37165.4,1825.32
+2015,United States,01000US,"Forging machine setters, operators, & tenders, metal & plastic",514022,8059,808.719,1,40611.7,1731.31
+2015,United States,01000US,"Rolling machine setters, operators, & tenders, metal & plastic",514023,9412,870.608,1,40697.4,2036.94
+2015,United States,01000US,"Machine tool cutting setters, operators, & tenders, metal & plastic",514030,154802,3773.21,1,33261.6,527.652
+2015,United States,01000US,Machinists,514041,361087,4807.99,1,45433.4,352.373
+2015,United States,01000US,"Metal furnace operators, tenders, pourers, & casters",514050,22968,1463.26,1,43598.5,1535.16
+2015,United States,01000US,Tool & die makers,514111,56041,1935.48,1,54227.8,906.881
+2015,United States,01000US,"Welding, soldering, & brazing workers",514120,575868,7326.16,1,40091.1,341.732
+2015,United States,01000US,Prepress technicians & workers,515111,31541,1735.49,1,32663.1,2396.94
+2015,United States,01000US,Printing press operators,515112,180277,4044.61,1,35495.1,457.549
+2015,United States,01000US,Print binding & finishing workers,515113,23060,1655.23,1,28410.4,1257.16
+2015,United States,01000US,Laundry & drycleaning workers,516011,181973,4707.59,1,20759,418.297
+2015,United States,01000US,"Pressers, textile, garment, & related materials",516021,46077,2087.21,1,19951.9,766.833
+2015,United States,01000US,Sewing machine operators,516031,180738,3841.24,1,21520.1,402.268
+2015,United States,01000US,Shoe & leather workers,516040,10649,979.953,1,26026.2,2142.51
+2015,United States,01000US,"Tailors, dressmakers, & sewers",516050,55576,2471.88,1,27146.7,1568.56
+2015,United States,01000US,"Textile knitting & weaving machine setters, operators, & tenders",516063,8145,916.989,1,27035.8,1468.01
+2015,United States,01000US,"Textile winding, twisting, & drawing out machine setters, operators, & tenders",516064,12429,993.245,1,26402.4,1402.89
+2015,United States,01000US,Upholsterers,516093,25568,1529.86,1,29934.6,1288.2
+2015,United States,01000US,Cabinetmakers & bench carpenters,517011,43173,2085.69,1,32296,827.497
+2015,United States,01000US,Furniture finishers,517021,11330,1052.95,1,28088,1818.92
+2015,United States,01000US,"Sawing machine setters, operators, & tenders, wood",517041,30925,1452.93,1,26398.3,891.078
+2015,United States,01000US,"Woodworking machine setters, operators, & tenders, except sawing",517042,18361,1245.27,1,26345.9,1141.06
+2015,United States,01000US,"Power plant operators, distributors, & dispatchers",518010,47361,1606.5,1,84170.7,1676.42
+2015,United States,01000US,Stationary engineers & boiler operators,518021,90226,2891.98,1,58571.8,1240.58
+2015,United States,01000US,Water & wastewater treatment plant & system operators,518031,85450,2910.87,1,48327.1,688.292
+2015,United States,01000US,Miscellaneous plant & system operators,518090,40749,1843.62,1,65546.6,1613.47
+2015,United States,01000US,"Chemical processing machine setters, operators, & tenders",519010,53474,2059.28,1,53886,1467.15
+2015,United States,01000US,"Crushing, grinding, polishing, mixing, & blending workers",519020,88420,3110.69,1,37337.7,774.814
+2015,United States,01000US,Cutting workers,519030,69179,2718.67,1,26732.2,694.517
+2015,United States,01000US,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",519041,28949,1609.1,1,34551.3,1201.4
+2015,United States,01000US,"Furnace, kiln, oven, drier, & kettle operators & tenders",519051,11327,1142.84,1,42678.8,2002.07
+2015,United States,01000US,"Inspectors, testers, sorters, samplers, & weighers",519061,769205,8328.77,1,40771.2,290.041
+2015,United States,01000US,Jewelers & precious stone & metal workers,519071,30061,1745.08,1,34505.5,1418.39
+2015,United States,01000US,"Medical, dental, & ophthalmic laboratory technicians",519080,81301,2824.61,1,35502.8,818.328
+2015,United States,01000US,Packaging & filling machine operators & tenders,519111,258741,5407.36,1,25172,371.124
+2015,United States,01000US,Painting workers,519120,132101,3738.35,1,35629.4,633.298
+2015,United States,01000US,Photographic process workers & processing machine operators,519151,40980,2096.46,1,30610.2,1695.92
+2015,United States,01000US,Adhesive bonding machine operators & tenders,519191,10574,906.638,1,30064.6,1986.91
+2015,United States,01000US,Etchers & engravers,519194,8925,967.982,1,30006.1,2141.58
+2015,United States,01000US,"Molders, shapers, & casters, except metal & plastic",519195,27464,1635.79,1,33801.1,1391.82
+2015,United States,01000US,"Paper goods machine setters, operators, & tenders",519196,27631,1530.29,1,37938,1507.57
+2015,United States,01000US,Tire builders,519197,14342,1129.2,1,45911.7,1685.69
+2015,United States,01000US,Helpersproduction workers,519198,46178,2084.78,1,23280.7,911.242
+2015,United States,01000US,Supervisors of transportation & material moving workers,531000,215325,3928.32,1,51820.1,778.459
+2015,United States,01000US,Aircraft pilots & flight engineers,532010,145472,3913.29,1,110489,1773.22
+2015,United States,01000US,Air traffic controllers & airfield operations specialists,532020,42740,2150.04,1,83666.6,2740.71
+2015,United States,01000US,Flight attendants,532031,94698,3287.12,1,42072,768.738
+2015,United States,01000US,"Ambulance drivers & attendants, except emergency medical technicians",533011,14017,1276.21,1,27595.5,1803.07
+2015,United States,01000US,Bus drivers,533020,595455,7910.9,1,26979.4,289.599
+2015,United States,01000US,Driver/sales workers & truck drivers,533030,3088288,17167.7,1,38876,179.495
+2015,United States,01000US,Taxi drivers & chauffeurs,533041,285608,5518.99,1,26279,498.291
+2015,United States,01000US,"Motor vehicle operators, all other",533099,47551,1999.88,1,18972.4,866.909
+2015,United States,01000US,Locomotive engineers & operators,534010,46872,1861.69,1,76008.2,1329.27
+2015,United States,01000US,Railroad conductors & yardmasters,534031,50794,2511.03,1,63711.6,1220.74
+2015,United States,01000US,Ship & boat captains & operators,535020,41984,2157.82,1,71474.8,2545.7
+2015,United States,01000US,Parking lot attendants,536021,85021,2957.88,1,19327,673.187
+2015,United States,01000US,Automotive & watercraft service attendants-,536031,110237,4094.57,1,20207.3,564.343
+2015,United States,01000US,Transportation inspectors,536051,42555,1949.53,1,56505,1334.47
+2015,United States,01000US,"Transportation attendants, except flight attendants",536061,27611,1693.09,1,26156.3,1758.52
+2015,United States,01000US,Crane & tower operators,537021,61410,2175.95,1,56839.1,1428.81
+2015,United States,01000US,"Dredge, excavating, & loading machine operators",537030,29629,1646.64,1,42171.8,1866.45
+2015,United States,01000US,Industrial truck & tractor operators,537051,528185,7545.02,1,31427.4,240.934
+2015,United States,01000US,Cleaners of vehicles & equipment,537061,338928,5936.01,1,20597.6,350.277
+2015,United States,01000US,"Laborers & freight, stock, & material movers, hand",537062,2086913,13649,1,25164.3,158.133
+2015,United States,01000US,Machine feeders & offbearers,537063,30156,1621.57,1,25669.3,1286.52
+2015,United States,01000US,"Packers & packagers, hand",537064,462000,7589.35,1,20068.8,240.307
+2015,United States,01000US,Pumping station operators,537070,27070,1463.1,1,56721,2297.69
+2015,United States,01000US,Refuse & recyclable material collectors,537081,89729,2988.93,1,29521.5,784.357
+2015,United States,01000US,Military officer special & tactical operations leaders,551010,39098,2158.22,1,67342.2,1552
+2015,United States,01000US,Firstline enlisted military supervisors,552010,86862,2905.15,1,59780,883.743
+2015,United States,01000US,Military enlisted tactical operations & air/weapons specialists & crew members,553010,165900,4137.45,1,26368.2,492.426
+2015,United States,01000US,"Military, rank not specified",559830,247273,6448.73,1,45388.8,605.11
+2015,United States,01000US,Chief executives & legislators,1110XX,1099763,10755.8,1,154995,1151.28
+2015,United States,01000US,Advertising & promotions managers,112011,49181,2428.3,1,77252,2662.08
+2015,United States,01000US,Marketing & sales managers,112020,837841,7025.34,1,97535.1,836.107
+2015,United States,01000US,Public relations & fundraising managers,112031,51393,1843.38,1,85701.5,2776.82
+2015,United States,01000US,Administrative services managers,113011,130452,3183.63,1,70258.8,1394.71
+2015,United States,01000US,Computer & information systems managers,113021,540998,6798.67,1,107097,749.767
+2015,United States,01000US,Financial managers,113031,1092551,12217.8,1,95667.6,844.653
+2015,United States,01000US,Industrial production managers,113051,226666,3965.29,1,83700.2,1213.58
+2015,United States,01000US,Purchasing managers,113061,190362,3799.99,1,81008.2,1069.5
+2015,United States,01000US,"Transportation, storage, & distribution managers",113071,218950,4024.85,1,59996.3,916.367
+2015,United States,01000US,"Farmers, ranchers, & other agricultural managers",119013,260132,5223.47,1,51638.6,921.78
+2015,United States,01000US,Construction managers,119021,497085,7205.66,1,78704,741.04
+2015,United States,01000US,Education administrators,119030,849974,9725.95,1,69707.7,536.408
+2015,United States,01000US,Architectural & engineering managers,119041,145153,3248.78,1,140341,1782.49
+2015,United States,01000US,Food service managers,119051,865591,11006.7,1,42488.1,498.7
+2015,United States,01000US,Gaming managers,119071,18133,1279.07,1,53440.9,2995.48
+2015,United States,01000US,Lodging managers,119081,114277,3282.92,1,52641.2,1717.08
+2015,United States,01000US,Medical & health services managers,119111,609041,8043.34,1,82180.3,798.35
+2015,United States,01000US,Natural sciences managers,119121,19345,1328.21,1,107077,5749.98
+2015,United States,01000US,"Property, real estate, & community association managers",119141,485699,6951.95,1,62237.3,877.784
+2015,United States,01000US,Social & community service managers,119151,338841,5597.48,1,60323.2,769.844
+2015,United States,01000US,Miscellaneous managers,119XXX,3427208,20246.6,1,91235.8,355.708
+2015,United States,01000US,"Software developers, applications & systems software",15113X,1036081,10448.9,1,97408.3,497.522
+2015,United States,01000US,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",1520XX,48569,1988.26,1,84170,2717.8
+2015,United States,01000US,Biomedical & agricultural engineers,1720XX,17618,1284.37,1,84211.8,4216.96
+2015,United States,01000US,"Petroleum, mining & geological engineers, including mining safety engineers",1721XX,39577,1937.61,1,130246,5243.05
+2015,United States,01000US,"Miscellaneous engineers, including nuclear engineers",1721YY,485098,6836.21,1,93881.8,695.078
+2015,United States,01000US,"Medical scientists, & life scientists, all other",1910XX,136719,3533.13,1,89109.2,1768.17
+2015,United States,01000US,"Miscellaneous social scientists, including survey researchers & sociologists",1930XX,46529,1959.61,1,58896.6,2303.56
+2015,United States,01000US,Chemical technicians,194031,69311,2464.6,1,52009.4,945.03
+2015,United States,01000US,"Geological & petroleum technicians, & nuclear technicians",1940XX,20600,1520.27,1,72046.9,3023.33
+2015,United States,01000US,"Miscellaneous life, physical, & social science technicians, including social science research assistants",1940YY,190849,3786.41,1,36448.9,755.309
+2015,United States,01000US,"Miscellaneous community & social service specialists, including health educators & community health workers",21109X,96338,2580.87,1,41867.1,1044.68
+2015,United States,01000US,"Lawyers, & judges, magistrates, & other judicial workers",2310XX,928436,10285,1,150142,1257.43
+2015,United States,01000US,"Other education, training, & library workers",2590XX,118493,3113.7,1,46223.1,980.436
+2015,United States,01000US,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",2740XX,96292,3234.26,1,49313.1,1432.91
+2015,United States,01000US,"Other therapists, including exercise physiologists",29112X,142190,3515.08,1,45274.9,1095.09
+2015,United States,01000US,Nurse practitioners & nurse midwives,2911XX,113034,2576.29,1,88820.9,1232.26
+2015,United States,01000US,"Healthcare support workers, all other, including medical equipment preparers",31909X,153363,3585.51,1,25838.5,550.706
+2015,United States,01000US,Miscellaneous law enforcement workers,3330XX,13180,1185.85,1,37978.1,1710.59
+2015,United States,01000US,"Lifeguards & other recreational, & all other protective service workers",33909X,174754,3872.1,1,10772.9,367.625
+2015,United States,01000US,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",3590XX,343698,5424.75,1,12487.7,248.648
+2015,United States,01000US,Janitors & building cleaners,37201X,2390526,13715.9,1,23369.4,108.876
+2015,United States,01000US,Embalmers & funeral attendants,3940XX,14645,952.456,1,22416.6,1814.26
+2015,United States,01000US,Correspondence clerks & order clerks,434XXX,129091,3340.9,1,31082.6,664.871
+2015,United States,01000US,"Miscellaneous office & administrative support workers, including desktop publishers",439XXX,582288,7091.72,1,38246.5,330.071
+2015,United States,01000US,"Miscellaneous agricultural workers, including animal breeders",4520XX,798236,11008.6,1,20383.7,202.153
+2015,United States,01000US,"Construction equipment operators except paving, surfacing, & tamping equipment operators",47207X,318942,5861.88,1,46570.6,527.722
+2015,United States,01000US,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",472XXX,118002,3964.7,1,33846.1,692.093
+2015,United States,01000US,"Miscellaneous extraction workers, including roof bolters & helpers",4750XX,78063,3138.25,1,54664.1,1249.67
+2015,United States,01000US,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",4750YY,45859,2286.98,1,69969,3105.67
+2015,United States,01000US,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",47XXXX,47159,2054.11,1,36480.9,1022.6
+2015,United States,01000US,"Electrical & electronics repairers, transportation equipment, & industrial & utility",49209X,23005,1711.84,1,52068.3,2275.74
+2015,United States,01000US,Industrial & refractory machinery mechanics,49904X,378623,5653.19,1,49995.9,466.085
+2015,United States,01000US,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",4990XX,234131,4770.12,1,39262,479.137
+2015,United States,01000US,"Model makers, patternmakers, & molding machine setters, metal & plastic",5140XX,48286,1789.08,1,36392.3,992.043
+2015,United States,01000US,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",514XXX,414325,6175.5,1,35149.9,314.635
+2015,United States,01000US,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders",51606X,10530,1006.6,1,24982.1,1629.76
+2015,United States,01000US,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",51609X,19661,1420.99,1,31986.7,1716.82
+2015,United States,01000US,"Miscellaneous woodworkers, including model makers & patternmakers",5170XX,21167,1519.14,1,32353.8,1613.95
+2015,United States,01000US,"Miscellaneous production workers, including semiconductor processors",5191XX,1166757,11739.8,1,33927.1,212.419
+2015,United States,01000US,"Subway, streetcar, & other rail transportation workers",5340XX,16773,1072.85,1,55588.5,2169.97
+2015,United States,01000US,"Sailors & marine oilers, & ship engineers",5350XX,32814,1771.33,1,46485.8,1877.97
+2015,United States,01000US,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",5360XX,25831,1529.66,1,39842.6,1882.03
+2015,United States,01000US,"Conveyor operators & tenders, & hoist & winch operators",5370XX,13908,1065.9,1,41638,1961.71
+2015,United States,01000US,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",5371XX,53167,2045.92,1,37593.2,1324.92
+2016,United States,01000US,General & operations managers,111021,929760,9107.71,1,90256.4,726.661
+2016,United States,01000US,Compensation & benefits managers,113111,16149,1107.87,1,89696.2,5440.23
+2016,United States,01000US,Human resources managers,113121,375653,5913.14,1,82041.2,933.304
+2016,United States,01000US,Training & development managers,113131,58084,2200.7,1,77433.5,2751.85
+2016,United States,01000US,Emergency management directors,119161,9692,726.418,1,70931.9,4157.72
+2016,United States,01000US,"Agents & business managers of artists, performers, & athletes",131011,37909,1673.29,1,66442.7,4476.17
+2016,United States,01000US,"Buyers & purchasing agents, farm products",131021,8394,839.945,1,58153.9,4735.9
+2016,United States,01000US,"Wholesale & retail buyers, except farm products",131022,208514,5057.75,1,42726.5,957.725
+2016,United States,01000US,"Purchasing agents, except wholesale, retail, & farm products",131023,266791,4510.9,1,58971.5,672.929
+2016,United States,01000US,"Claims adjusters, appraisers, examiners, & investigators",131030,285657,4449.21,1,55814.2,617.794
+2016,United States,01000US,Compliance officers,131041,217228,4479.68,1,75611.8,1216.62
+2016,United States,01000US,Cost estimators,131051,128884,3431.31,1,65298.4,1132.53
+2016,United States,01000US,Human resources workers,131070,726683,8501.67,1,64584.5,597.639
+2016,United States,01000US,Logisticians,131081,127790,3470.02,1,58236.8,1132.62
+2016,United States,01000US,Management analysts,131111,692202,7133.3,1,94568.2,819.899
+2016,United States,01000US,"Meeting, convention, & event planners",131121,119202,3533.44,1,43801.1,1097.4
+2016,United States,01000US,Fundraisers,131131,92651,2428.8,1,60310.3,1834.69
+2016,United States,01000US,"Compensation, benefits, & job analysis specialists",131141,54295,1763.86,1,57713.6,1629.29
+2016,United States,01000US,Training & development specialists,131151,131132,3464.02,1,58654.4,1046.36
+2016,United States,01000US,Market research analysts & marketing specialists,131161,273314,5340.12,1,79726.6,1314.85
+2016,United States,01000US,"Business operations specialists, all other",131199,269770,5259.78,1,68351.3,967.288
+2016,United States,01000US,Accountants & auditors,132011,1888384,14765.1,1,71750.5,382.551
+2016,United States,01000US,Appraisers & assessors of real estate,132021,69736,2232.05,1,59787,1551.42
+2016,United States,01000US,Budget analysts,132031,46276,2063.32,1,76828,1603.09
+2016,United States,01000US,Credit analysts,132041,27710,1633.57,1,66146.5,3379.27
+2016,United States,01000US,Financial analysts,132051,153063,3572.13,1,114086,3433.02
+2016,United States,01000US,Personal financial advisors,132052,324069,5539.19,1,126303,2163.7
+2016,United States,01000US,Insurance underwriters,132053,107130,3363.52,1,71027.2,1603.76
+2016,United States,01000US,Financial examiners,132061,13606,1249.07,1,90352.5,5552.57
+2016,United States,01000US,Credit counselors & loan officers,132070,314534,5169.99,1,72289.7,1196.77
+2016,United States,01000US,"Tax examiners & collectors, & revenue agents",132081,56520,2172.43,1,56896.3,1528.86
+2016,United States,01000US,Tax preparers,132082,87261,2498.25,1,48401.5,2156.01
+2016,United States,01000US,Other financial specialists,132099,60512,2585.24,1,91598.5,3676.6
+2016,United States,01000US,Computer & information research scientists,151111,15610,1055.97,1,97872.3,4364.16
+2016,United States,01000US,Computer systems analysts,151121,497261,6650.2,1,82752,769.244
+2016,United States,01000US,Information security analysts,151122,65231,2317.51,1,91098.9,1821.29
+2016,United States,01000US,Computer programmers,151131,430708,5847.16,1,82235.9,624.887
+2016,United States,01000US,Web developers,151134,166396,4284.77,1,58367.8,960.278
+2016,United States,01000US,Database administrators,151141,114448,3099.51,1,78124.2,1152.71
+2016,United States,01000US,Network & computer systems administrators,151142,212039,4028.9,1,71754.7,705.35
+2016,United States,01000US,Computer network architects,151143,101095,2861.2,1,98766.1,1269.28
+2016,United States,01000US,Computer support specialists,151150,591090,7266.56,1,58006.8,511.611
+2016,United States,01000US,Other Computer Occupations,151199,503910,6338.48,1,71422.9,578.851
+2016,United States,01000US,Actuaries,152011,26792,1763.3,1,138177,7619.49
+2016,United States,01000US,Operations research analysts,152031,135882,3838.66,1,81696.5,1158.31
+2016,United States,01000US,"Architects, except naval",171010,159510,4048.21,1,83578.2,1655.72
+2016,United States,01000US,"Surveyors, cartographers, & photogrammetrists",171020,34750,1494.53,1,58210.9,1739.07
+2016,United States,01000US,Aerospace engineers,172011,125369,3192.01,1,103313,1171.43
+2016,United States,01000US,Chemical engineers,172041,60758,2386.09,1,105368,2406.73
+2016,United States,01000US,Civil engineers,172051,309618,4992.24,1,88747.2,969.477
+2016,United States,01000US,Computer hardware engineers,172061,54424,2157.48,1,98414.2,2341.63
+2016,United States,01000US,Electrical & electronics engineers,172070,206049,4312.59,1,97873.5,1131.5
+2016,United States,01000US,Environmental engineers,172081,29244,1640.51,1,80896.7,2732.49
+2016,United States,01000US,"Industrial engineers, including health & safety",172110,189294,3500.19,1,80067.8,851.17
+2016,United States,01000US,Marine engineers & naval architects,172121,12964,1004.12,1,85676.9,2824.65
+2016,United States,01000US,Materials engineers,172131,34540,1651.94,1,83845.6,1870.4
+2016,United States,01000US,Mechanical engineers,172141,242605,4939.06,1,83448.7,844.847
+2016,United States,01000US,Drafters,173010,151367,3203.18,1,52345.1,723.399
+2016,United States,01000US,"Engineering technicians, except drafters",173020,399147,5485.56,1,55192.2,484.61
+2016,United States,01000US,Surveying & mapping technicians,173031,62032,2695.24,1,49428.6,1419.71
+2016,United States,01000US,Agricultural & food scientists,191010,25214,1650.65,1,63143.7,3476.9
+2016,United States,01000US,Biological scientists,191020,73156,2194.55,1,63172,1317.85
+2016,United States,01000US,Conservation scientists & foresters,191030,20741,1302.78,1,58579.3,2085.47
+2016,United States,01000US,Astronomers & physicists,192010,10617,866.849,1,97962,5986.76
+2016,United States,01000US,Atmospheric & space scientists,192021,11925,1034.97,1,76813.5,3942.17
+2016,United States,01000US,Chemists & materials scientists,192030,83446,2813.47,1,76967.3,1542.1
+2016,United States,01000US,Environmental scientists & geoscientists,192040,71932,2501.02,1,90654.6,2683.74
+2016,United States,01000US,Other Physical Scientists,192099,210664,5161.58,1,80022.8,1230.75
+2016,United States,01000US,Economists,193011,23967,1331.82,1,127252,6099.8
+2016,United States,01000US,Psychologists,193030,151062,3648.45,1,67410.1,1027.84
+2016,United States,01000US,Urban & regional planners,193051,22280,1148.68,1,73598.9,2569.77
+2016,United States,01000US,Agricultural & food science technicians,194011,34438,1839.95,1,44478.3,1805.06
+2016,United States,01000US,Biological technicians,194021,21581,1455.75,1,48371.9,2248.88
+2016,United States,01000US,Counselors,211010,710343,8111.36,1,41681.5,306.645
+2016,United States,01000US,Social workers,211020,805774,8094.76,1,44230.9,261.476
+2016,United States,01000US,Probation officers & correctional treatment specialists,211092,90978,3305.34,1,50255.1,680.286
+2016,United States,01000US,Social & human service assistants,211093,164999,3420.27,1,35174.4,559.621
+2016,United States,01000US,Clergy,212011,427219,5790.22,1,42908.4,361.075
+2016,United States,01000US,"Directors, religious activities & education",212021,63846,2260.83,1,37332.8,1180.48
+2016,United States,01000US,"Religious workers, all other",212099,74420,2838.27,1,28647.1,886.138
+2016,United States,01000US,Judicial law clerks,231012,18406,1087.06,1,57237.2,3517.88
+2016,United States,01000US,Paralegals & legal assistants,232011,387866,4671.59,1,49194.4,613.583
+2016,United States,01000US,Miscellaneous legal support workers,232090,165321,3503.31,1,55475.7,1155.32
+2016,United States,01000US,Postsecondary teachers,251000,1475617,14307.8,1,57277.5,378.509
+2016,United States,01000US,Preschool & kindergarten teachers,252010,561109,7207,1,23691.2,250.591
+2016,United States,01000US,Elementary & middle school teachers,252020,3527559,27210.3,1,47264.2,95.709
+2016,United States,01000US,Secondary school teachers,252030,777497,8563.44,1,50789.3,296.972
+2016,United States,01000US,Special education teachers,252050,257111,5175.74,1,45302.9,440.302
+2016,United States,01000US,Other teachers & instructors,253000,756529,9269.18,1,31345.4,353.435
+2016,United States,01000US,"Archivists, curators, & museum technicians",254010,46772,1970.45,1,45187.9,1437.71
+2016,United States,01000US,Librarians,254021,175495,3886.23,1,42895.3,591.763
+2016,United States,01000US,Library technicians,254031,50820,1724.65,1,17491.8,927.978
+2016,United States,01000US,Teacher assistants,259041,1001645,9666.87,1,19600.7,166.278
+2016,United States,01000US,Artists & related workers,271010,117748,3316.72,1,54089.1,1321.81
+2016,United States,01000US,Designers,271020,714353,8002.29,1,52603.2,486.893
+2016,United States,01000US,Actors,272011,28953,1582.42,1,45181.6,4030.01
+2016,United States,01000US,Producers & directors,272012,136324,3760.85,1,79278.8,1682.65
+2016,United States,01000US,"Athletes, coaches, umpires, & related workers",272020,262168,5089.5,1,34185.6,1202.54
+2016,United States,01000US,Dancers & choreographers,272030,16213,1372.79,1,29857.6,2538.93
+2016,United States,01000US,"Musicians, singers, & related workers",272040,139875,3742.6,1,33995.9,1434.99
+2016,United States,01000US,"Entertainers & performers, sports & related workers, all other",272099,29137,1700.96,1,35884.1,2689.51
+2016,United States,01000US,Announcers,273010,40561,2321.5,1,50848,3033.06
+2016,United States,01000US,"News analysts, reporters & correspondents",273020,71087,2917.95,1,59849.7,2194.08
+2016,United States,01000US,Public relations specialists,273031,123837,3379.34,1,75606.5,1963.18
+2016,United States,01000US,Editors,273041,155270,4139.07,1,55996.8,1106.7
+2016,United States,01000US,Technical writers,273042,54474,1945.2,1,69594.7,1635.32
+2016,United States,01000US,Writers & authors,273043,157671,4107.76,1,59821.7,1522.63
+2016,United States,01000US,Miscellaneous media & communication workers,273090,85163,2575.27,1,37107,1330.13
+2016,United States,01000US,Photographers,274021,104375,2768.1,1,36371.8,1272.26
+2016,United States,01000US,"Television, video, & motion picture camera operators & editors",274030,45898,2040.37,1,52663.3,2463.04
+2016,United States,01000US,Chiropractors,291011,40986,1765.41,1,85877.6,4238.14
+2016,United States,01000US,Dentists,291020,134871,3519.91,1,164543,3123.55
+2016,United States,01000US,Dietitians & nutritionists,291031,91086,2852.59,1,45520.8,1332.34
+2016,United States,01000US,Optometrists,291041,30984,1471.19,1,111800,4143.54
+2016,United States,01000US,Pharmacists,291051,288231,5089.61,1,99525.9,1130.21
+2016,United States,01000US,Physicians & surgeons,291060,853560,11821.4,1,214182,1369.51
+2016,United States,01000US,Physician assistants,291071,110556,2974.87,1,84417,1442.93
+2016,United States,01000US,Podiatrists,291081,7100,685.871,1,145074,14068.1
+2016,United States,01000US,Occupational therapists,291122,100954,2621.76,1,60703.8,880.213
+2016,United States,01000US,Physical therapists,291123,218926,4364.62,1,67969.8,795.335
+2016,United States,01000US,Radiation therapists,291124,15685,1176.62,1,75129.2,2268.94
+2016,United States,01000US,Recreational therapists,291125,11310,1038.48,1,38903,1865.9
+2016,United States,01000US,Respiratory therapists,291126,109441,3528.05,1,56505.6,1005.53
+2016,United States,01000US,Speechlanguage pathologists,291127,136334,3290.25,1,57759.2,825.417
+2016,United States,01000US,Veterinarians,291131,69940,2379.9,1,95566,2431.33
+2016,United States,01000US,Registered nurses,291141,2989636,17036.4,1,61668.1,181.221
+2016,United States,01000US,Nurse anesthetists,291151,27825,1658.62,1,149930,4331.8
+2016,United States,01000US,Audiologists,291181,15043,1100.11,1,68770.9,3742.43
+2016,United States,01000US,"Health diagnosing & treating practitioners, all other",291199,15069,1062.17,1,50732.6,4752.51
+2016,United States,01000US,Clinical laboratory technologists & technicians,292010,322505,4906.05,1,46537.3,511.879
+2016,United States,01000US,Dental hygienists,292021,168695,3304.56,1,48322.4,775.881
+2016,United States,01000US,Diagnostic related technologists & technicians,292030,336632,5635.79,1,54684.4,466.576
+2016,United States,01000US,Emergency medical technicians & paramedics,292041,203735,4644.87,1,43415.1,899.492
+2016,United States,01000US,Health practitioner support technologists & technicians,292050,592957,6978.4,1,34029.1,486.734
+2016,United States,01000US,Licensed practical & licensed vocational nurses,292061,762457,8200.63,1,36976.3,307.401
+2016,United States,01000US,Medical records & health information technicians,292071,150830,3574.34,1,37593.3,749.427
+2016,United States,01000US,"Opticians, dispensing",292081,56491,2170.47,1,38272.3,1415.01
+2016,United States,01000US,Miscellaneous health technologists & technicians,292090,125201,3324.78,1,47775.4,1442.8
+2016,United States,01000US,Other healthcare practitioners & technical Occupations,299000,105320,3029.48,1,59474.6,1480.06
+2016,United States,01000US,"Nursing, psychiatric, & home health aides",311010,2131605,14056.6,1,24183,166.699
+2016,United States,01000US,Occupational therapy assistants & aides,312010,18882,1132.2,1,40777.7,1226.31
+2016,United States,01000US,Physical therapist assistants & aides,312020,81824,3021.07,1,36328.2,712.285
+2016,United States,01000US,Massage therapists,319011,123210,3852.55,1,23435.6,489.086
+2016,United States,01000US,Dental assistants,319091,288222,5079.45,1,28371.1,313.532
+2016,United States,01000US,Medical assistants,319092,490964,7569.88,1,28414.6,232.968
+2016,United States,01000US,Medical transcriptionists,319094,39577,1797.26,1,27593.2,727.579
+2016,United States,01000US,Pharmacy aides,319095,40793,1991.73,1,29033.2,1515.02
+2016,United States,01000US,Veterinary assistants & laboratory animal caretakers,319096,45534,1956.96,1,21931.2,826.16
+2016,United States,01000US,Phlebotomists,319097,104660,3037.29,1,28880.2,472.147
+2016,United States,01000US,Firstline supervisors of correctional officers,331011,56471,2193.25,1,57792.8,962.479
+2016,United States,01000US,Firstline supervisors of police & detectives,331012,104600,2981.2,1,81602.6,1206.65
+2016,United States,01000US,Firstline supervisors of fire fighting & prevention workers,331021,46048,1960.35,1,90368.3,1926.15
+2016,United States,01000US,"Firstline supervisors of protective service workers, all other",331099,77350,2766.06,1,56988.4,1396.58
+2016,United States,01000US,Firefighters,332011,290491,5734.06,1,66137.7,581.637
+2016,United States,01000US,Fire inspectors,332020,19921,1226.74,1,57743.7,2277.59
+2016,United States,01000US,"Bailiffs, correctional officers, & jailers",333010,430705,6389.31,1,47070,417.32
+2016,United States,01000US,Detectives & criminal investigators,333021,128332,3252.62,1,77656.9,1191.41
+2016,United States,01000US,Police officers,333050,736069,8824.64,1,64396.2,396.08
+2016,United States,01000US,Animal control workers,339011,11659,1224.7,1,35308.9,1590.1
+2016,United States,01000US,Private detectives & investigators,339021,77657,2768.61,1,59487.7,1454.14
+2016,United States,01000US,Security guards & gaming surveillance officers,339030,987558,10114,1,31024.5,272.204
+2016,United States,01000US,Crossing guards,339091,57592,2347.74,1,15765.9,931.42
+2016,United States,01000US,Transportation security screeners,339093,31911,1857.64,1,42588.1,1410.84
+2016,United States,01000US,Chefs & head cooks,351011,401633,7257.84,1,31715.6,369.809
+2016,United States,01000US,Firstline supervisors of food preparation & serving workers,351012,540988,7837.27,1,26449.2,342.235
+2016,United States,01000US,Cooks,352010,2295067,17516.9,1,16918,102.169
+2016,United States,01000US,Food preparation workers,352021,948455,9743.5,1,13067.8,104.729
+2016,United States,01000US,Bartenders,353011,428163,7242.21,1,22740.6,280.615
+2016,United States,01000US,"Combined food preparation & serving workers, including fast food",353021,376533,7127.15,1,13673.1,316.087
+2016,United States,01000US,"Counter attendants, cafeteria, food concession, & coffee shop",353022,191563,4152.4,1,8462.96,244.171
+2016,United States,01000US,Waiters & waitresses,353031,2215033,19573.6,1,15687.7,100.767
+2016,United States,01000US,"Food servers, nonrestaurant",353041,174935,4168.77,1,17519.2,349.346
+2016,United States,01000US,Dishwashers,359021,315991,5740.27,1,11890.8,262.213
+2016,United States,01000US,"Hosts & hostesses, restaurant, lounge, & coffee shop",359031,303375,5551.76,1,8983.33,255.818
+2016,United States,01000US,Firstline supervisors of housekeeping & janitorial workers,371011,196740,4789.2,1,40381.2,788.02
+2016,United States,01000US,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",371012,121592,3379.57,1,43177.4,1005.74
+2016,United States,01000US,Maids & housekeeping cleaners,372012,1181442,14826.1,1,18119.2,148.48
+2016,United States,01000US,Pest control workers,372021,66853,2496.92,1,35748.3,1045.28
+2016,United States,01000US,Grounds maintenance workers,373010,1056797,12563.4,1,22274,183.044
+2016,United States,01000US,Firstline supervisors of gaming workers,391010,40282,1648.71,1,42926.2,1461.24
+2016,United States,01000US,Firstline supervisors of personal service workers,391021,86840,2623.62,1,39031.2,1461.59
+2016,United States,01000US,Animal trainers,392011,29102,1862.16,1,29192.6,2113.87
+2016,United States,01000US,Nonfarm animal caretakers,392021,180913,3902.95,1,19315.6,387.554
+2016,United States,01000US,Gaming services workers,393010,101084,2951.31,1,33921.3,594.873
+2016,United States,01000US,Motion picture projectionists,393021,4265,633.425,1,23196.3,4041.69
+2016,United States,01000US,"Ushers, lobby attendants, & ticket takers",393031,45595,2379.92,1,10370.5,1084.24
+2016,United States,01000US,Miscellaneous entertainment attendants & related workers,393090,196492,4051.8,1,13932.9,374.784
+2016,United States,01000US,"Morticians, undertakers, & funeral directors",394031,36240,1784.45,1,53750.3,1877.66
+2016,United States,01000US,Barbers,395011,62940,2740.26,1,22622.3,648.397
+2016,United States,01000US,"Hairdressers, hairstylists, & cosmetologists",395012,578542,8441.53,1,23153.4,266.018
+2016,United States,01000US,Miscellaneous personal appearance workers,395090,254277,5891.72,1,20693.3,460.612
+2016,United States,01000US,"Baggage porters, bellhops, & concierges",396010,84798,2985.81,1,28399.7,723.198
+2016,United States,01000US,Tour & travel guides,397010,52102,1909.37,1,17341.2,923.049
+2016,United States,01000US,Childcare workers,399011,926672,8542.34,1,14821.2,178.717
+2016,United States,01000US,Personal care aides,399021,1199776,10375.5,1,18264.7,170.801
+2016,United States,01000US,Recreation & fitness workers,399030,381189,6803.52,1,21761,420.082
+2016,United States,01000US,Residential advisors,399041,84672,2702,1,14238.3,551.182
+2016,United States,01000US,"Personal care & service workers, all other ",399099,102831,3173.88,1,19064.5,653.03
+2016,United States,01000US,Firstline supervisors of retail sales workers,411011,2844003,16382.4,1,47869.4,260.185
+2016,United States,01000US,Firstline supervisors of nonretail sales workers,411012,1081588,9917.43,1,82852.7,794.278
+2016,United States,01000US,Cashiers,412010,3393258,18938.5,1,14008.8,92.699
+2016,United States,01000US,Counter & rental clerks,412021,86086,2767.38,1,25545,1142.47
+2016,United States,01000US,Parts salespersons,412022,109513,3313.8,1,35201,1185.71
+2016,United States,01000US,Retail salespersons,412031,3339727,17510.2,1,28150.6,196.107
+2016,United States,01000US,Advertising sales agents,413011,174366,3914.97,1,70253.2,1855.32
+2016,United States,01000US,Insurance sales agents,413021,480239,5787.68,1,68068.9,1011.5
+2016,United States,01000US,"Securities, commodities, & financial services sales agents",413031,235400,5064.96,1,131471,2294.93
+2016,United States,01000US,Travel agents,413041,63113,2490.43,1,39078.5,1011.36
+2016,United States,01000US,"Sales representatives, services, all other",413099,618287,7146.76,1,76271.5,884.488
+2016,United States,01000US,"Sales representatives, wholesale & manufacturing",414010,1315249,11625.4,1,77321.7,520.293
+2016,United States,01000US,"Models, demonstrators, & product promoters",419010,55121,2583.02,1,19266.2,1347.03
+2016,United States,01000US,Real estate brokers & sales agents,419020,557274,7264.69,1,67064.1,750.448
+2016,United States,01000US,Sales engineers,419031,34099,1815.94,1,113121,3584.77
+2016,United States,01000US,Telemarketers,419041,85532,3117.07,1,20545.1,814.67
+2016,United States,01000US,"Doortodoor sales workers, news & street vendors, & related workers",419091,97555,2915.33,1,24489.7,1721.26
+2016,United States,01000US,Other Sales Workers,419099,257113,4688.75,1,56952.6,1291.88
+2016,United States,01000US,Firstline supervisors of office & administrative support workers,431011,1327182,10017.8,1,54644.5,371.544
+2016,United States,01000US,"Switchboard operators, including answering service",432011,30776,1882.4,1,25875.8,891.788
+2016,United States,01000US,Telephone operators,432021,38055,1718.94,1,28403.4,1496.86
+2016,United States,01000US,"Communications equipment operators, all other",432099,11246,1065.65,1,42111.4,3369.73
+2016,United States,01000US,Bill & account collectors,433011,171785,3474.77,1,34651,622.984
+2016,United States,01000US,Billing & posting clerks,433021,489552,6311.3,1,34060.6,363.245
+2016,United States,01000US,"Bookkeeping, accounting, & auditing clerks",433031,1180581,10541.6,1,36082.9,238.426
+2016,United States,01000US,Gaming cage workers,433041,8767,842.427,1,27160.5,1542.41
+2016,United States,01000US,Payroll & timekeeping clerks,433051,164433,4064.6,1,39768.4,449.518
+2016,United States,01000US,Procurement clerks,433061,33211,1648.74,1,60038.9,2147.68
+2016,United States,01000US,Tellers,433071,366558,6322.42,1,22929.2,283.862
+2016,United States,01000US,Other financial clerks,433099,111134,3212.7,1,69591.1,1934
+2016,United States,01000US,Brokerage clerks,434011,7215,728.435,1,48900.2,3011.16
+2016,United States,01000US,"Court, municipal, & license clerks",434031,74346,2299.92,1,38810.4,664.255
+2016,United States,01000US,"Credit authorizers, checkers, & clerks",434041,42571,2349.55,1,48055.3,2026.14
+2016,United States,01000US,Customer service representatives,434051,2630200,17461,1,30363,160.492
+2016,United States,01000US,"Eligibility interviewers, government programs",434061,76299,2637.82,1,44384.6,880.365
+2016,United States,01000US,File clerks,434071,281699,5329.78,1,26331.1,361.316
+2016,United States,01000US,"Hotel, motel, & resort desk clerks",434081,145575,4295.04,1,19607.8,440.515
+2016,United States,01000US,"Interviewers, except eligibility & loan",434111,133060,3536.17,1,29045.9,624.966
+2016,United States,01000US,"Library assistants, clerical",434121,106378,2754.49,1,17122.9,385.794
+2016,United States,01000US,Loan interviewers & clerks,434131,121435,3940.78,1,43482.3,808.653
+2016,United States,01000US,New accounts clerks,434141,15900,1163.21,1,43634.3,2783.77
+2016,United States,01000US,"Human resources assistants, except payroll & timekeeping",434161,64156,2372.03,1,39883.7,1080.14
+2016,United States,01000US,Receptionists & information clerks,434171,1164746,9283.3,1,22612.9,152.927
+2016,United States,01000US,Reservation & transportation ticket agents & travel clerks,434181,125158,3696.58,1,38419.5,941.708
+2016,United States,01000US,"Information & record clerks, all other",434199,108492,3249.61,1,35688,682.827
+2016,United States,01000US,Cargo & freight agents,435011,21318,1454.01,1,41196.6,2156.07
+2016,United States,01000US,Couriers & messengers,435021,198341,4053.26,1,35004.3,588.52
+2016,United States,01000US,Dispatchers,435030,282384,5511.71,1,39288.2,417.569
+2016,United States,01000US,"Meter readers, utilities",435041,28223,1651.38,1,39556.1,1737.11
+2016,United States,01000US,Postal service clerks,435051,111510,3005.36,1,48968.4,637.701
+2016,United States,01000US,Postal service mail carriers,435052,310620,5070.3,1,49943.9,322.937
+2016,United States,01000US,"Postal service mail sorters, processors, & processing machine operators",435053,70784,2434.55,1,46435.1,778.52
+2016,United States,01000US,"Production, planning, & expediting clerks",435061,319195,5588.61,1,48716.8,580.041
+2016,United States,01000US,"Shipping, receiving, & traffic clerks",435071,594991,7213.86,1,29609.7,266.434
+2016,United States,01000US,Stock clerks & order fillers,435081,1603535,12984.9,1,22019.5,159.506
+2016,United States,01000US,"Weighers, measurers, checkers, & samplers, recordkeeping",435111,79511,2744.41,1,34891.3,988.087
+2016,United States,01000US,Secretaries & administrative assistants,436010,3300958,20022.2,1,34078.8,116.394
+2016,United States,01000US,Computer operators,439011,97542,3324.73,1,43026.9,1083.08
+2016,United States,01000US,Data entry keyers,439021,353705,4682.09,1,28669.7,375.753
+2016,United States,01000US,Word processors & typists,439022,308530,5863.27,1,30070.6,344.82
+2016,United States,01000US,Insurance claims & policy processing clerks,439041,364697,5295.83,1,39148.3,452.268
+2016,United States,01000US,"Mail clerks & mail machine operators, except postal service",439051,83416,2724.84,1,25585.9,584.653
+2016,United States,01000US,"Office clerks, general",439061,1255547,10006.6,1,29605.3,207.072
+2016,United States,01000US,"Office machine operators, except computer",439071,37712,1833.76,1,25727.2,957.87
+2016,United States,01000US,Proofreaders & copy markers,439081,10171,944.263,1,29671.9,1727.33
+2016,United States,01000US,Statistical assistants,439111,20475,1241.48,1,45694,1758.22
+2016,United States,01000US,"Firstline supervisors of farming, fishing, & forestry workers",451011,56257,2240.93,1,43822.4,1117.98
+2016,United States,01000US,Agricultural inspectors,452011,14439,974.529,1,48264,1874.38
+2016,United States,01000US,"Graders & sorters, agricultural products",452041,56909,2117.76,1,19000.2,1166.57
+2016,United States,01000US,Fishing & hunting workers,453000,20690,1475.9,1,41804.7,2979.29
+2016,United States,01000US,Forest & conservation workers,454011,13612,1106.21,1,32675.7,3136.83
+2016,United States,01000US,Logging workers,454020,49576,1999.27,1,32412.9,1401.1
+2016,United States,01000US,Firstline supervisors of construction trades & extraction workers,471011,676665,6056.2,1,65606.5,497.222
+2016,United States,01000US,Boilermakers,472011,14598,1047.08,1,54731,2518.7
+2016,United States,01000US,Carpenters,472031,876807,10046.5,1,36097.5,305.828
+2016,United States,01000US,"Carpet, floor, & tile installers & finishers",472040,116577,3902.93,1,32131.2,746.869
+2016,United States,01000US,"Cement masons, concrete finishers, & terrazzo workers",472050,50752,2137.45,1,35656.9,1209.81
+2016,United States,01000US,Construction laborers,472061,1401857,13883.3,1,32625,228.984
+2016,United States,01000US,"Paving, surfacing, & tamping equipment operators",472071,11946,933.708,1,35661.9,2164.94
+2016,United States,01000US,"Drywall installers, ceiling tile installers, & tapers",472080,114257,4172.2,1,30377.6,648.455
+2016,United States,01000US,Electricians,472111,719809,7990.03,1,51448.3,388.07
+2016,United States,01000US,Glaziers,472121,37726,1749.4,1,39188.7,1312
+2016,United States,01000US,Insulation workers,472130,42534,2177.62,1,39357.8,1403
+2016,United States,01000US,Painters & paperhangers,472140,432267,8218.95,1,30230.6,417.059
+2016,United States,01000US,"Pipelayers, plumbers, pipefitters, & steamfitters",472150,487186,6282.99,1,47124.5,428.765
+2016,United States,01000US,Plasterers & stucco masons,472161,27226,1726.97,1,31189.9,1607.52
+2016,United States,01000US,Roofers,472181,180414,5111.89,1,29430.2,577.797
+2016,United States,01000US,Sheet metal workers,472211,117700,3738.84,1,42970.7,645.573
+2016,United States,01000US,Structural iron & steel workers,472221,58159,2411.31,1,47036.6,1117.72
+2016,United States,01000US,"Helpers, construction trades",473010,45823,2297.03,1,24656.6,930.623
+2016,United States,01000US,Construction & building inspectors,474011,81649,2326.74,1,53901,1184.27
+2016,United States,01000US,Elevator installers & repairers,474021,23589,1324.58,1,82262.4,2527.59
+2016,United States,01000US,Fence erectors,474031,24295,1770.23,1,28199.2,1290.12
+2016,United States,01000US,Hazardous materials removal workers,474041,31040,1554.94,1,41124.2,1429.87
+2016,United States,01000US,Highway maintenance workers,474051,99394,3276.44,1,39041.3,740.669
+2016,United States,01000US,Railtrack laying & maintenance equipment operators,474061,11719,1136.29,1,52992.8,2272.84
+2016,United States,01000US,"Earth drillers, except oil & gas",475021,25507,1721.99,1,55210.2,2417.5
+2016,United States,01000US,"Explosives workers, ordnance handling experts, & blasters",475031,18640,1304.76,1,47707.5,2503.63
+2016,United States,01000US,Mining machine operators,475040,63571,2482.67,1,64758.3,1445.35
+2016,United States,01000US,"Firstline supervisors of mechanics, installers, & repairers",491011,273676,4693.35,1,62880.6,721.283
+2016,United States,01000US,"Computer, automated teller, & office machine repairers",492011,202545,4219.45,1,43676.2,674.237
+2016,United States,01000US,Radio & telecommunications equipment installers & repairers,492020,162132,3472.3,1,52726.7,709.183
+2016,United States,01000US,Avionics technicians,492091,25010,1714.44,1,47166.6,1590.78
+2016,United States,01000US,"Electric motor, power tool, & related repairers",492092,24760,1231.6,1,46658.2,1406.51
+2016,United States,01000US,"Electronic equipment installers & repairers, motor vehicles",492096,10574,974.397,1,45221.4,3236.81
+2016,United States,01000US,Electronic home entertainment equipment installers & repairers,492097,37838,1987.85,1,39940.6,1273.74
+2016,United States,01000US,Security & fire alarm systems installers,492098,52412,2400.57,1,43794,987.626
+2016,United States,01000US,Aircraft mechanics & service technicians,493011,184525,3884.56,1,54312.8,655.49
+2016,United States,01000US,Automotive body & related repairers,493021,124847,3280.08,1,41451.3,747.028
+2016,United States,01000US,Automotive glass installers & repairers,493022,15723,1251.01,1,34190.7,1524.82
+2016,United States,01000US,Automotive service technicians & mechanics,493023,740636,9563.29,1,38328.3,256.84
+2016,United States,01000US,Bus & truck mechanics & diesel engine specialists,493031,298305,4883.49,1,43990.2,381.535
+2016,United States,01000US,Heavy vehicle & mobile equipment service technicians & mechanics,493040,202342,3810.08,1,51427,621.728
+2016,United States,01000US,Small engine mechanics,493050,39337,2040.08,1,33928.4,1192.31
+2016,United States,01000US,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",493090,79162,2877.63,1,26963.4,801.224
+2016,United States,01000US,Control & valve installers & repairers,499010,18996,1369.59,1,53578.1,1873.28
+2016,United States,01000US,"Heating, air conditioning, & refrigeration mechanics & installers",499021,333565,5231.71,1,44837.9,402.551
+2016,United States,01000US,Home appliance repairers,499031,30279,1892.55,1,39751.2,1622.72
+2016,United States,01000US,"Maintenance workers, machinery",499043,31616,1503.29,1,48020.1,1514.7
+2016,United States,01000US,Millwrights,499044,44614,2228.21,1,61338.6,1236.14
+2016,United States,01000US,Electrical powerline installers & repairers,499051,110977,2790.79,1,70384.8,1105.61
+2016,United States,01000US,Telecommunications line installers & repairers,499052,142204,3708.51,1,50247.2,850.622
+2016,United States,01000US,Precision instrument & equipment repairers,499060,56016,2539.33,1,51826,1409.68
+2016,United States,01000US,"Maintenance & repair workers, general",499071,519007,6456.16,1,43366.7,345.645
+2016,United States,01000US,"Coin, vending, & amusement machine servicers & repairers",499091,34664,1729.5,1,33114.6,1121.12
+2016,United States,01000US,Locksmiths & safe repairers,499094,21232,1321.26,1,41721.5,2088.39
+2016,United States,01000US,Riggers,499096,12196,1117.8,1,45512.4,2323.54
+2016,United States,01000US,"Helpersinstallation, maintenance, & repair workers ",499098,22100,1375.99,1,23449,1095.04
+2016,United States,01000US,Firstline supervisors of production & operating workers,511011,876311,8850.94,1,59316.6,422.577
+2016,United States,01000US,"Aircraft structure, surfaces, rigging, & systems assemblers",512011,6661,973.303,1,44609.8,2904.61
+2016,United States,01000US,"Electrical, electronics, & electromechanical assemblers",512020,132938,3899.32,1,30956,476.183
+2016,United States,01000US,Engine & other machine assemblers,512031,13122,1093.12,1,41817,2042.08
+2016,United States,01000US,Structural metal fabricators & fitters,512041,27296,1585.55,1,41106.7,1446.06
+2016,United States,01000US,Miscellaneous assemblers & fabricators,512090,997181,9754.7,1,31088.2,225.563
+2016,United States,01000US,Bakers,513011,215607,4478.41,1,21946.8,425.941
+2016,United States,01000US,"Butchers & other meat, poultry, & fish processing workers",513020,268886,5726.02,1,28023,399.261
+2016,United States,01000US,"Food & tobacco roasting, baking, & drying machine operators & tenders",513091,9737,835.03,1,29279.6,2154.24
+2016,United States,01000US,Food batchmakers,513092,88588,3094.6,1,25081,702.918
+2016,United States,01000US,Food cooking machine operators & tenders,513093,9374,881.435,1,23216.5,1524.47
+2016,United States,01000US,"Food processing workers, all other",513099,126347,3352.33,1,32365.6,658.11
+2016,United States,01000US,Computer control programmers & operators,514010,85887,2781.62,1,44658.4,827.929
+2016,United States,01000US,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",514021,12492,1016.46,1,38598.8,1714.81
+2016,United States,01000US,"Forging machine setters, operators, & tenders, metal & plastic",514022,7780,863.242,1,41016,1782.06
+2016,United States,01000US,"Rolling machine setters, operators, & tenders, metal & plastic",514023,9229,900.516,1,41056.3,2247.89
+2016,United States,01000US,"Machine tool cutting setters, operators, & tenders, metal & plastic",514030,153706,3311.37,1,34082.4,507.086
+2016,United States,01000US,Machinists,514041,356600,5403.57,1,46558.8,411.676
+2016,United States,01000US,"Metal furnace operators, tenders, pourers, & casters",514050,22995,1430.51,1,44521.7,1533.37
+2016,United States,01000US,Tool & die makers,514111,56767,1969.59,1,56015.8,1121.48
+2016,United States,01000US,"Welding, soldering, & brazing workers",514120,584367,7476.16,1,41020.9,338.46
+2016,United States,01000US,Prepress technicians & workers,515111,29040,1580.35,1,32676.2,2656.15
+2016,United States,01000US,Printing press operators,515112,180062,3925.8,1,35672.3,444.448
+2016,United States,01000US,Print binding & finishing workers,515113,22013,1552.05,1,29066.7,1295.8
+2016,United States,01000US,Laundry & drycleaning workers,516011,180236,4908.15,1,21279.2,490.056
+2016,United States,01000US,"Pressers, textile, garment, & related materials",516021,43839,2029.55,1,20236.2,792.314
+2016,United States,01000US,Sewing machine operators,516031,177191,4738.61,1,22342.3,535.662
+2016,United States,01000US,Shoe & leather workers,516040,10663,1025.91,1,25668,1929.27
+2016,United States,01000US,"Tailors, dressmakers, & sewers",516050,53817,2429.44,1,27655.3,1666.1
+2016,United States,01000US,"Textile knitting & weaving machine setters, operators, & tenders",516063,7693,885.167,1,27741.6,1451.03
+2016,United States,01000US,"Textile winding, twisting, & drawing out machine setters, operators, & tenders",516064,11517,1067.66,1,26650.9,1511.31
+2016,United States,01000US,Upholsterers,516093,25451,1529.11,1,31524.1,1377.65
+2016,United States,01000US,Cabinetmakers & bench carpenters,517011,43824,2129.39,1,33256.3,895.32
+2016,United States,01000US,Furniture finishers,517021,10868,1089.94,1,29046.9,1776.93
+2016,United States,01000US,"Sawing machine setters, operators, & tenders, wood",517041,31579,1559.71,1,27042.4,1061.23
+2016,United States,01000US,"Woodworking machine setters, operators, & tenders, except sawing",517042,18604,1311,1,27507.6,2319.31
+2016,United States,01000US,"Power plant operators, distributors, & dispatchers",518010,47905,1774.52,1,85924.7,1679.2
+2016,United States,01000US,Stationary engineers & boiler operators,518021,91411,2773.35,1,60308.5,1229.4
+2016,United States,01000US,Water & wastewater treatment plant & system operators,518031,86371,2932.89,1,48869.2,681.86
+2016,United States,01000US,Miscellaneous plant & system operators,518090,41704,2001.06,1,66492.6,1673.77
+2016,United States,01000US,"Chemical processing machine setters, operators, & tenders",519010,54931,2227.81,1,54498.7,1400.61
+2016,United States,01000US,"Crushing, grinding, polishing, mixing, & blending workers",519020,87712,2784.46,1,38097.2,853.425
+2016,United States,01000US,Cutting workers,519030,68401,2516.3,1,27096.9,810.64
+2016,United States,01000US,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",519041,29089,1555.9,1,34956.2,1319.47
+2016,United States,01000US,"Furnace, kiln, oven, drier, & kettle operators & tenders",519051,11529,1157.92,1,42459.2,2171.39
+2016,United States,01000US,"Inspectors, testers, sorters, samplers, & weighers",519061,789760,7799.48,1,41493.5,329.715
+2016,United States,01000US,Jewelers & precious stone & metal workers,519071,29274,1678.25,1,35435.7,1480.96
+2016,United States,01000US,"Medical, dental, & ophthalmic laboratory technicians",519080,81105,3017.04,1,35985.7,908.061
+2016,United States,01000US,Packaging & filling machine operators & tenders,519111,261608,5948.36,1,25961.2,483.606
+2016,United States,01000US,Painting workers,519120,133305,3743.19,1,36922.1,665.915
+2016,United States,01000US,Photographic process workers & processing machine operators,519151,35228,1882.56,1,32161.8,1410.77
+2016,United States,01000US,Adhesive bonding machine operators & tenders,519191,9906,970.091,1,29382.1,2023.07
+2016,United States,01000US,Etchers & engravers,519194,8911,972.302,1,30675.2,2388.92
+2016,United States,01000US,"Molders, shapers, & casters, except metal & plastic",519195,26377,1416.18,1,34698.7,1603.61
+2016,United States,01000US,"Paper goods machine setters, operators, & tenders",519196,26723,1399.08,1,38602.3,1844.17
+2016,United States,01000US,Tire builders,519197,14547,1217.38,1,47481.2,2122.02
+2016,United States,01000US,Helpersproduction workers,519198,44839,2125.7,1,23928.5,936.242
+2016,United States,01000US,Supervisors of transportation & material moving workers,531000,216229,4185.3,1,52448.9,743.319
+2016,United States,01000US,Aircraft pilots & flight engineers,532010,152594,3940.26,1,115183,1884.05
+2016,United States,01000US,Air traffic controllers & airfield operations specialists,532020,41986,1916.69,1,85204.3,2629.72
+2016,United States,01000US,Flight attendants,532031,98028,3132.98,1,43295.4,801.843
+2016,United States,01000US,"Ambulance drivers & attendants, except emergency medical technicians",533011,14424,1338,1,28184.4,2599
+2016,United States,01000US,Bus drivers,533020,596815,7540.44,1,27517.6,285.254
+2016,United States,01000US,Driver/sales workers & truck drivers,533030,3188704,18207,1,39848,192.587
+2016,United States,01000US,Taxi drivers & chauffeurs,533041,305586,5809.07,1,26478.4,473.727
+2016,United States,01000US,"Motor vehicle operators, all other",533099,47943,1917.08,1,19594.5,1004.42
+2016,United States,01000US,Locomotive engineers & operators,534010,46932,1920.69,1,78219.3,1362.31
+2016,United States,01000US,Railroad conductors & yardmasters,534031,50654,2188.8,1,66211.7,1306.74
+2016,United States,01000US,Ship & boat captains & operators,535020,41090,1970.67,1,73145.4,2591.87
+2016,United States,01000US,Parking lot attendants,536021,85528,3571.04,1,19511.3,667.562
+2016,United States,01000US,Automotive & watercraft service attendants-,536031,104450,3884.87,1,21103.8,580.799
+2016,United States,01000US,Transportation inspectors,536051,42265,1833.7,1,57787.4,1505.17
+2016,United States,01000US,"Transportation attendants, except flight attendants",536061,28561,1812.6,1,25726.3,1698.53
+2016,United States,01000US,Crane & tower operators,537021,60649,2405.53,1,58550.2,1427.01
+2016,United States,01000US,"Dredge, excavating, & loading machine operators",537030,29939,1738,1,41905.9,1372.88
+2016,United States,01000US,Industrial truck & tractor operators,537051,550254,7288.59,1,32286,291.228
+2016,United States,01000US,Cleaners of vehicles & equipment,537061,346244,6527.98,1,21211.1,330.802
+2016,United States,01000US,"Laborers & freight, stock, & material movers, hand",537062,2142523,15072.8,1,25569.4,163.85
+2016,United States,01000US,Machine feeders & offbearers,537063,28258,1524.45,1,26868.8,2077.59
+2016,United States,01000US,"Packers & packagers, hand",537064,466577,6430.33,1,20240,224.15
+2016,United States,01000US,Pumping station operators,537070,26502,1568.81,1,57516.6,2370.48
+2016,United States,01000US,Refuse & recyclable material collectors,537081,89872,2895.01,1,30256.7,874.187
+2016,United States,01000US,Military officer special & tactical operations leaders,551010,38190,1920.29,1,68583.8,1818.08
+2016,United States,01000US,Firstline enlisted military supervisors,552010,86478,3024.99,1,60735.5,890.695
+2016,United States,01000US,Military enlisted tactical operations & air/weapons specialists & crew members,553010,163276,3700.52,1,27301.7,550.906
+2016,United States,01000US,"Military, rank not specified",559830,242544,6015.6,1,46147.8,660.929
+2016,United States,01000US,Chief executives & legislators,1110XX,1131672,11090.4,1,160293,1143.79
+2016,United States,01000US,Advertising & promotions managers,112011,47933,2352.02,1,79271.3,2672.15
+2016,United States,01000US,Marketing & sales managers,112020,875138,7391.32,1,99160.4,844.17
+2016,United States,01000US,Public relations & fundraising managers,112031,53839,2144.94,1,84878.1,2244.2
+2016,United States,01000US,Administrative services managers,113011,139179,3387.21,1,70773.4,1336.26
+2016,United States,01000US,Computer & information systems managers,113021,557096,6629.49,1,109834,796.179
+2016,United States,01000US,Financial managers,113031,1115922,11598.8,1,98446.1,762.485
+2016,United States,01000US,Industrial production managers,113051,230444,3777.26,1,84913.8,978.158
+2016,United States,01000US,Purchasing managers,113061,192729,3547.28,1,82016.3,1084.33
+2016,United States,01000US,"Transportation, storage, & distribution managers",113071,226488,3913.23,1,60305.9,877.655
+2016,United States,01000US,"Farmers, ranchers, & other agricultural managers",119013,266355,4964.47,1,52996.1,1044.24
+2016,United States,01000US,Construction managers,119021,508707,7169.8,1,80364.5,696.651
+2016,United States,01000US,Education administrators,119030,862908,10286.7,1,70690.6,498.29
+2016,United States,01000US,Architectural & engineering managers,119041,148488,3189.9,1,144697,1903.75
+2016,United States,01000US,Food service managers,119051,881803,10566.4,1,42912.6,475.78
+2016,United States,01000US,Gaming managers,119071,17904,1357.31,1,55124.5,2684.87
+2016,United States,01000US,Lodging managers,119081,118162,3564.13,1,53955.2,1820.86
+2016,United States,01000US,Medical & health services managers,119111,623764,7596.49,1,83638,745.983
+2016,United States,01000US,Natural sciences managers,119121,18910,1195.87,1,105295,5784.93
+2016,United States,01000US,"Property, real estate, & community association managers",119141,498319,7329.22,1,64107.4,797.21
+2016,United States,01000US,Social & community service managers,119151,347485,5510.64,1,61304.4,820.286
+2016,United States,01000US,Miscellaneous managers,119XXX,3647920,18188.7,1,92942,349.548
+2016,United States,01000US,"Software developers, applications & systems software",15113X,1108062,10794,1,100422,475.762
+2016,United States,01000US,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",1520XX,50630,1958.04,1,85689.5,2698.65
+2016,United States,01000US,Biomedical & agricultural engineers,1720XX,17472,1244.34,1,84336.1,2960.59
+2016,United States,01000US,"Petroleum, mining & geological engineers, including mining safety engineers",1721XX,40722,2037.44,1,137860,5091.42
+2016,United States,01000US,"Miscellaneous engineers, including nuclear engineers",1721YY,504588,6622.79,1,95860.3,726.136
+2016,United States,01000US,"Medical scientists, & life scientists, all other",1910XX,137689,3471.8,1,90560.9,1964.26
+2016,United States,01000US,"Miscellaneous social scientists, including survey researchers & sociologists",1930XX,43840,1775.5,1,59657.3,2575.82
+2016,United States,01000US,Chemical technicians,194031,68891,2174.56,1,53166.2,1016.8
+2016,United States,01000US,"Geological & petroleum technicians, & nuclear technicians",1940XX,19970,1352.55,1,74361.7,3122.68
+2016,United States,01000US,"Miscellaneous life, physical, & social science technicians, including social science research assistants",1940YY,196813,3762.64,1,37286.8,743.648
+2016,United States,01000US,"Miscellaneous community & social service specialists, including health educators & community health workers",21109X,94476,2645.48,1,42244.5,973.428
+2016,United States,01000US,"Lawyers, & judges, magistrates, & other judicial workers",2310XX,946602,9100.7,1,152568,1063.55
+2016,United States,01000US,"Other education, training, & library workers",2590XX,120245,2977.41,1,46047.8,969.888
+2016,United States,01000US,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",2740XX,97555,3169.67,1,50254.4,1490.53
+2016,United States,01000US,"Other therapists, including exercise physiologists",29112X,146855,3368.31,1,45281.8,975.216
+2016,United States,01000US,Nurse practitioners & nurse midwives,2911XX,126059,3048.06,1,90926.2,1256.49
+2016,United States,01000US,"Healthcare support workers, all other, including medical equipment preparers",31909X,153251,3725.56,1,26264.1,611.604
+2016,United States,01000US,Miscellaneous law enforcement workers,3330XX,13308,1143.63,1,39375.1,1969.62
+2016,United States,01000US,"Lifeguards & other recreational, & all other protective service workers",33909X,171242,3751.55,1,10594.5,356.263
+2016,United States,01000US,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",3590XX,343197,5353.52,1,12811.6,292.732
+2016,United States,01000US,Janitors & building cleaners,37201X,2403567,14866.9,1,23862.4,118.675
+2016,United States,01000US,Embalmers & funeral attendants,3940XX,14992,1096,1,23076.5,2194
+2016,United States,01000US,Correspondence clerks & order clerks,434XXX,127242,3302.62,1,32105.3,804.245
+2016,United States,01000US,"Miscellaneous office & administrative support workers, including desktop publishers",439XXX,589901,7490.79,1,39018.5,322.146
+2016,United States,01000US,"Miscellaneous agricultural workers, including animal breeders",4520XX,793702,11495.5,1,20884.2,189.193
+2016,United States,01000US,"Construction equipment operators except paving, surfacing, & tamping equipment operators",47207X,323168,6045.8,1,48166.3,509.812
+2016,United States,01000US,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",472XXX,119379,4198.68,1,35181,766.51
+2016,United States,01000US,"Miscellaneous extraction workers, including roof bolters & helpers",4750XX,75025,2803.89,1,56639.5,1296.69
+2016,United States,01000US,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",4750YY,42842,2137.69,1,72400.9,3496.08
+2016,United States,01000US,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",47XXXX,53905,2104.92,1,36493.7,1204.87
+2016,United States,01000US,"Electrical & electronics repairers, transportation equipment, & industrial & utility",49209X,21857,1560.76,1,52244.9,2327.83
+2016,United States,01000US,Industrial & refractory machinery mechanics,49904X,382677,6053.67,1,50887.4,462.529
+2016,United States,01000US,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",4990XX,241638,4507.19,1,40191.8,533.069
+2016,United States,01000US,"Model makers, patternmakers, & molding machine setters, metal & plastic",5140XX,46494,2052.12,1,37479.2,973.234
+2016,United States,01000US,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",514XXX,412235,5974.3,1,35886.4,301.934
+2016,United States,01000US,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders",51606X,9976,1066.82,1,24738.2,1516.41
+2016,United States,01000US,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",51609X,18612,1355.59,1,30915.4,1514.26
+2016,United States,01000US,"Miscellaneous woodworkers, including model makers & patternmakers",5170XX,22528,1576.29,1,32676.1,1606.54
+2016,United States,01000US,"Miscellaneous production workers, including semiconductor processors",5191XX,1191669,11039.2,1,34598.4,223.752
+2016,United States,01000US,"Subway, streetcar, & other rail transportation workers",5340XX,17683,1186.88,1,57744.2,2801.84
+2016,United States,01000US,"Sailors & marine oilers, & ship engineers",5350XX,32683,1723.25,1,48084.5,1854.15
+2016,United States,01000US,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",5360XX,26835,1527.49,1,40020,1920.05
+2016,United States,01000US,"Conveyor operators & tenders, & hoist & winch operators",5370XX,14464,1202.37,1,42564.8,1953.53
+2016,United States,01000US,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",5371XX,51318,1790.44,1,37924.2,1466.19
