@@ -1,12 +1,12 @@
 // D3 Scatterplot Assignment
-var svgWidth = 680;
-var svgHeight = 480;
+var svgWidth = 480;
+var svgHeight = 380;
 
 var margin = {
     top: 20,
     right: 40,
     bottom: 80,
-    left: 100
+    left: 90
 }
 
 var width = svgWidth - margin.left - margin.right;
@@ -56,6 +56,7 @@ function renderCircles(circlesGroup, newxScale, chosenxAxis) {
 
     circlesGroup.transition()
       .duration(200)
+      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"red":"blue")
       .attr("cx", d => newxScale(d[chosenxAxis]))
 
     return circlesGroup
@@ -136,7 +137,7 @@ d3.csv("mean_income_gender.csv", function (error, data) {
     // append y axis
     chartGroup.append("g")
       .call(leftAxis);
-  
+       
     // append initial circles
     var circlesGroup = chartGroup.selectAll("circle")
       .data(data)
@@ -145,10 +146,7 @@ d3.csv("mean_income_gender.csv", function (error, data) {
       .attr("cx", d => xLinearScale(d[chosenxAxis]))
       .attr("cy", d => yLinearScale(d[chosenyAxis]))
       .attr("r", 9)
-
-      .attr("fill", "pink")
-
-      
+      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"red":"blue")
       .attr("opacity", "0.9");
     //.attr("class", "stateText");
     
