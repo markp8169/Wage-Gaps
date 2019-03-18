@@ -1,9 +1,9 @@
 var margin = {top: 20, right: 20, bottom: 60, left: 50},
     width = 1550 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 550 - margin.top - margin.bottom;
  
 var x0 = d3.scale.ordinal()
-    .rangeRoundBands([0, width], 0.1);
+    .rangeRoundBands([0, width], 0.2);
 var x1 = d3.scale.ordinal(); 
 var y = d3.scale.linear()
     .range([height, 0]);
@@ -17,7 +17,7 @@ var yAxis = d3.svg.axis()
     .tickFormat(d3.format(".2s"));
  
 var color = d3.scale.ordinal()
-    .range(["red", "orange", "green", "pink", "blue", "purple"]);
+    .range(["red", "orange", "green", "purple", "blue", "#FF00FF"]);
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -116,7 +116,7 @@ d3.csv("65andOlder.csv", function(error, data) {
       .attr("height", 20)
       .style("fill", color);
   legend.append("text")
-      .attr("x", width - 30)
+      .attr("x", width - 20)
       .attr("y", 10)
       .attr("dy", ".35em")
       .style("text-anchor", "end")

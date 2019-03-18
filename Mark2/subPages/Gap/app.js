@@ -3,7 +3,7 @@ var margin = {top: 20, right: 20, bottom: 60, left: 50},
     height = 500 - margin.top - margin.bottom;
  
 var x0 = d3.scale.ordinal()
-    .rangeRoundBands([0, width], 0.1);
+    .rangeRoundBands([0, width], 0.2);
 var x1 = d3.scale.ordinal(); 
 var y = d3.scale.linear()
     .range([height, 0]);
@@ -17,7 +17,7 @@ var yAxis = d3.svg.axis()
     .tickFormat(d3.format(".2s"));
  
 var color = d3.scale.ordinal()
-    .range(["blue", "pink", "green"]);
+    .range(["blue", "pink"]);
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -30,10 +30,10 @@ var yBegin;
 var innerColumns = {
   "column1" : ["male2017"],
   "column2" : ["female2017"],
-  "column3" : ["female%ofMale"],
+  // "column3" : ["femaleVsMale"],
 }
  
-d3.csv("Gender_Gap%", function(error, data) {
+d3.csv("Gender_Gap", function(error, data) {
   var columnHeaders = d3.keys(data[0]).filter(function(key) { return key !== "year"; });
   color.domain(d3.keys(data[0]).filter(function(key) { return key !== "year"; }));
   data.forEach(function(d) {
