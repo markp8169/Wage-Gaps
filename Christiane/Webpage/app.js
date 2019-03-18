@@ -56,7 +56,7 @@ function renderCircles(circlesGroup, newxScale, chosenxAxis) {
 
     circlesGroup.transition()
       .duration(200)
-      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"red":"blue")
+      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"magenta":"blue")
       .attr("cx", d => newxScale(d[chosenxAxis]))
 
     return circlesGroup
@@ -76,10 +76,10 @@ function ActualData(){
 function updateToolTip(chosenxAxis, circlesGroup) {
 
     if (chosenxAxis === "Mean_Income_2017_M") {
-      var xlabel = "Male Income 2017($): ";
+      var xlabel = "Male Income($): ";
       var ylabel = "Year: "
     } else {
-      var xlabel = "Female Income 2017($): "
+      var xlabel = "Female Income($): "
       var ylabel = "Year: "
     };
   
@@ -90,6 +90,7 @@ function updateToolTip(chosenxAxis, circlesGroup) {
         // return (`${d.Year}<hr>${xlabel} ${d[chosenxAxis]}<br>${ylabel} ${d[chosenyAxis]}`);
         // return (`${xlabel} ${d[chosenxAxis]}<br>${ylabel} ${d[chosenyAxis]}`);
         return (`${ylabel} ${d[chosenyAxis]}<hr>${xlabel} ${d[chosenxAxis]}`);
+        // return (`${ylabel} ${d[chosenyAxis]}${xlabel} ${d[chosenxAxis]}`);
       });
     
     circlesGroup.call(toolTip);
@@ -146,7 +147,7 @@ d3.csv("mean_income_gender.csv", function (error, data) {
       .attr("cx", d => xLinearScale(d[chosenxAxis]))
       .attr("cy", d => yLinearScale(d[chosenyAxis]))
       .attr("r", 9)
-      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"red":"blue")
+      .style("fill",  (chosenxAxis === "Mean_Income_2017_F")?"magenta":"blue")
       .attr("opacity", "0.9");
     //.attr("class", "stateText");
     

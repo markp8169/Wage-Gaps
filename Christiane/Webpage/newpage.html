@@ -9,64 +9,102 @@
 	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
-	<link rel="stylesheet" href="css/style_main.css">
+	<link rel="stylesheet" href="css/style_newpages.css">
 	<link rel="stylesheet" href="css/d3Style.css">
 </head>
 <body>
 		<div class="header">
 			<div class="row">
-				<div class="col-sm-8">
-					<h1>| Machine Learning Project |</h1>
+				<!-- <div class="col-sm-8"> -->
+				<div class="col-xs-12 col-md-12 col-md-offset-0">
+						<h1>| Machine Learning Project |</h1>
 				</div>
 			</div>
 		</div>
-		<br>
-		<div>
-			<p>
-				<u><a href="index.html">HOMEPAGE</a></u>
-			</p>
+
+		<!-- <div class="container">
+				<div class="title">
+					<h2><center>Linear Regression Algorithm - Model 1</center></h2><hr>
+				</div>
+		</div> -->
+		
+
+		<div class="title">
+				<h2><center>Linear Regression Algorithm - Model 1</center></h2><hr>
 		</div>
+
+		<div>
+				<p>
+					<u><a href="index.html">HOMEPAGE</a></u>
+					<!-- <u><a href="index.html">"homepage_icon1"</a></u> -->
+				</p>
+			</div>
+	
+		<div class="row">
+			<div class="col-xs-12  col-md-9 col-md-offset-0">
+				<img src="coins7.jpg" class="image1">
+			</div>
+		</div>
+	
+		<br>
+
 		<blockquote>
 		<br>
 		<div>
 			<div>
-				<p>
-				<b><u>Model 1 - Fit the model with Male and Female data from 1967 to 2007</u></b>
+			<p>
+				Looking into the dataset we can see there is a linear trend and since the data is linear we decide to use <strong>Linear Regression algorithm</strong> to fit a line through the data. 
 			</p>
 			<p>
 				Using income data from 1967 to 2007, we predicted the 2007 to 2017 data and compared it to the actual data. Then we predicted the data for the next 10 years, 2017 to 2027.
 			</p>
+			<br>
+			<p>
+				<b><u>Train the model with male and female data from 1967 to 2007:</u></b>
+			</p>
+	
 			<img src="./Fig1.png">
 		</div>
 		<br>
+
+		<p>
+			After training the model with 40 years of data, we run the <b>R-squared</b>. For the male model the result is <b>0.986</b> and for the female model is <b>0.971</b>. As a "good" R2 Score will be close to 1, we can assume the model is accurate.
+		</p>
+<br>
 		<div>
 			<p>
-				Prediction of the data for the next 10 years, 2017 to 2027.
+				<b><u>Prediction of 10 years of data, 2007 to 2017, using the model trained with 40 years of data, 1967 to 2007:</u></b>
 			</p>
 			<img src="./Fig2.png">
 		</div>
 		<br>
 		<div>
 			<p>
-				Male Actual data Vs. Predicted data and the Residual Plot
+				<b><u>Male Actual Data Vs. Male Predicted Data and the Male Residual Plot:</u></b>		
 			</p>
 			<img src="./Fig3.png">
 		</div>
 		<br>
 		<div>
 			<p>
-				Female Actual data Vs. Predicted data and the Residual Plot
+				<b><u>Female Actual Data Vs. Female Predicted Data and the Female Residual Plot:</u></b>		
+					
 			</p>
 			<img src="./Fig4.png">
 		</div>
 		<br>
 		<div>
 			<p>
-				Prediction of the next 10 years using the first model
+				<b><u>Prediction of the next 10 years, 2017 to 2027:</u></b>		
 			</p>
 			<img src="./Fig5.png">
 		</div>
 	</div>
-	</body>
+	
+	<div id="footer">
+		<p>© Anna Schmidgall - Christiane Reis - Katherine Morriss - Mark Peterson - 2019</p>
+	</div>
+	
+</body>
 </html>
 
