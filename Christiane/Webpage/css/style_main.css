@@ -42,6 +42,7 @@ p {
   font-family: comic sans ms;
 }
 
+
 h1 {
   margin-top: -0.5rem;
   /* font-family: Georgia; */
@@ -61,7 +62,8 @@ h2 {
   color: black;
   /* padding: 20px;
   padding-left: 60px; */
-  animation: title 1.2s forwards linear;  
+  /* animation: title 1.2s forwards linear;   */
+  /* animation: smaller-title 1.2s forwards linear; */
 }
 
 h3 {
@@ -118,6 +120,28 @@ h3 {
   .iframeContainer {
     margin: 0;
     margin-top: 20px;
+  }
+
+  @keyframes title {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      font-size: 7.5rem;
+      opacity: 1;
+    }
+  }
+  
+  @keyframes smaller-title {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      font-size: 5.5rem;
+      opacity: 1;
+    }
   }
 
   /* img {
