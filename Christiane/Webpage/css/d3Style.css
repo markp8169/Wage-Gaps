@@ -15,7 +15,7 @@
 }
 
 .tooltip {
-    pointer-events: none;
+    pointer-events: none !important;
     position: absolute;
     width: 135px;
     height: 80px;

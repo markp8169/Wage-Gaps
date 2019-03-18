@@ -97,9 +97,10 @@ function updateToolTip(chosenxAxis, circlesGroup) {
   
     circlesGroup.on("mouseover", function (data) {
         toolTip.show(data);
-      })
+      });
       // onmouseout event
-      .on("mouseout", function (data, index) {
+      
+    circlesGroup.on("mouseout", function (data) {
         toolTip.hide(data);
       });
   
